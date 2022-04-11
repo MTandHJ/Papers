@@ -6,6 +6,8 @@
 
 修改损失, 学习策略等避免局部最优的方法.
 
+- Towards the Memorization Effect of Neural Networks in Adversarial Training. (ICLR, 2022) [[paper](http://arxiv.org/abs/2106.04794)] [[code](https://anonymous.4open.science/r/benign-adv-77C5)]
+- DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks. (ICLR, 2022) [[paper](http://arxiv.org/abs/2108.12805)] [[code](https://github.com/nishiwen1214/DropAttack)]
 - Fixing Data Augmentation to Improve Adversarial Robustness. (2021) [[paper](https://arxiv.org/abs/2103.01946?msclkid=655be8b5b19111ec99add64c2edadd77)]
 - Bag of Tricks for Adversarial Training. (ICLR, 2021) [[paper](http://arxiv.org/abs/2010.00467)] [[code](https://github.com/P2333/Bag-of-Tricks-for-AT?msclkid=c5080f60b19311eca2e42624e9ecec78)]
 - Helper-Based Adversarial Training: Reducing Excessive Margin to Achieve a Better Accuracy vs. Robustness Trade-Off. (ICML, 2021) [[paper](https://openreview.net/pdf?id=BuD2LmNaU3a)] [[code](https://github.com/imrahulr/hat)]
@@ -80,6 +82,8 @@
 
 ## Theory
 
+- What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation. (NIPS, 2020) [[paper](https://arxiv.org/abs/2008.03703)]
+- Does Learning Require Memorization? A Short Tale about a Long Tail. (2020) [[paper](http://arxiv.org/abs/1906.05271)]
 - **Adversarial Examples Are Not Bugs, They Are Features.** (NIPS, 2019) [[paper](https://arxiv.org/pdf/1905.02175.pdf)]
 - **Adversarially Robust Generalization Requires More Data.** (NIPS, 2018) [[paper](https://arxiv.org/abs/1804.11285)]
 - Understanding Black-box Predictions via Influence Functions. (ICML, 2017) [[paper]](https://arxiv.org/pdf/1703.04730.pdf)
