@@ -6,6 +6,8 @@
 
 修改损失, 学习策略等避免局部最优的方法.
 
+- Double Descent in Adversarial Training: An Implicit Label Noise Perspective. (ICLR, 2022) [[paper](http://arxiv.org/abs/2110.03135)]
+- Exploring Memorization in Adversarial Training. (ICLR, 2022) [[paper](http://arxiv.org/abs/2106.01606)] [[code](https://github.com/dongyp13/memorization-AT)]
 - Towards the Memorization Effect of Neural Networks in Adversarial Training. (ICLR, 2022) [[paper](http://arxiv.org/abs/2106.04794)] [[code](https://anonymous.4open.science/r/benign-adv-77C5)]
 - DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks. (ICLR, 2022) [[paper](http://arxiv.org/abs/2108.12805)] [[code](https://github.com/nishiwen1214/DropAttack)]
 - Fixing Data Augmentation to Improve Adversarial Robustness. (2021) [[paper](https://arxiv.org/abs/2103.01946?msclkid=655be8b5b19111ec99add64c2edadd77)]
