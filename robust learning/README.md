@@ -6,8 +6,7 @@
 
 修改损失, 学习策略等避免局部最优的方法.
 
-- Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization. (CVPR, 2020) [[paper]](https://arxiv.org/abs/2003.02484v3#:~:text=Adversarial%20Vertex%20mixup%20%28AVmixup%29%2C%20a%20soft-labeled%20data%20augmentation,and%20show%20that%20AVmixup%20significantly%20improves%20the%20robust) [[code]](https://arxiv.org/abs/2003.02484v3#:~:text=Adversarial%20Vertex%20mixup%20%28AVmixup%29%2C%20a%20soft-labeled%20data%20augmentation,and%20show%20that%20AVmixup%20significantly%20improves%20the%20robust) [[PyTorch]](https://github.com/hirokiadachi/Adversarial-vertex-mixup-pytorch)
-- Enhancing Adversarial Training with Second-Order Statistics of Weights. (CVPR, 2022) [[paper]](https://arxiv.org/abs/2203.06020) [[code]](https://github.com/Alexkael/S2O)
+- Enhancing Adversarial Training with Second-Order Statistics of Weights. (CVPR, 2022) [[paper](https://arxiv.org/abs/2203.06020)] [[code](https://github.com/Alexkael/S2O)]
 - Double Descent in Adversarial Training: An Implicit Label Noise Perspective. (ICLR, 2022) [[paper](http://arxiv.org/abs/2110.03135)]
 - Exploring Memorization in Adversarial Training. (ICLR, 2022) [[paper](http://arxiv.org/abs/2106.01606)] [[code](https://github.com/dongyp13/memorization-AT)]
 - Towards the Memorization Effect of Neural Networks in Adversarial Training. (ICLR, 2022) [[paper](http://arxiv.org/abs/2106.04794)] [[code](https://anonymous.4open.science/r/benign-adv-77C5)]
@@ -19,6 +18,7 @@
 - Adversarial Weight Perturbation Helps Robust Generalization. (NIPS, 2020) [[paper]](http://arxiv.org/abs/2004.05884) [[code]](https://github.com/csdongxian/AWP)
 - Fast is Better than Free: Revisiting Adversarial Training. (ICLR, 2020) [[paper](http://arxiv.org/abs/2001.03994)] [[code](https://github.com/locuslab/fast_adversarial)]
 - Attacks Which Do Not Kill Training Make Adversarial Learning Stronger. (ICML, 2020) [[paper](http://arxiv.org/abs/2002.11242)] [[code](https://github.com/zjfheart/Friendly-Adversarial-Training)]
+- Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization. (CVPR, 2020) [[paper](https://arxiv.org/abs/2003.02484v3#:~:text=Adversarial%20Vertex%20mixup%20%28AVmixup%29%2C%20a%20soft-labeled%20data%20augmentation,and%20show%20that%20AVmixup%20significantly%20improves%20the%20robust)] [[code](https://arxiv.org/abs/2003.02484v3#:~:text=Adversarial%20Vertex%20mixup%20%28AVmixup%29%2C%20a%20soft-labeled%20data%20augmentation,and%20show%20that%20AVmixup%20significantly%20improves%20the%20robust)] [[PyTorch](https://github.com/hirokiadachi/Adversarial-vertex-mixup-pytorch)]
 - Understanding and Improving Fast Adversarial Training. (NIPS, 2020) [[paper](https://arxiv.org/abs/2007.02617)] [[code](https://github.com/tml-epfl/understanding-fast-adv-training)]
 - Robust Pre-Training by Adversarial Contrastive Learning. (NIPS, 2020) [[paper](https://arxiv.org/abs/2010.13337)] [[code](https://github.com/VITA-Group/Adversarial-Contrastive-Learning)]
 - Adversarial Self-Supervised Contrastive Learning. (NIPS, 2020) [[paper](https://arxiv.org/abs/2006.07589)] [[code](https://github.com/Kim-Minseon/RoCL)]
