@@ -6,6 +6,8 @@
 
 修改损失, 学习策略等避免局部最优的方法.
 
+- Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization. (CVPR, 2020) [[paper]](https://arxiv.org/abs/2003.02484v3#:~:text=Adversarial%20Vertex%20mixup%20%28AVmixup%29%2C%20a%20soft-labeled%20data%20augmentation,and%20show%20that%20AVmixup%20significantly%20improves%20the%20robust) [[code]](https://arxiv.org/abs/2003.02484v3#:~:text=Adversarial%20Vertex%20mixup%20%28AVmixup%29%2C%20a%20soft-labeled%20data%20augmentation,and%20show%20that%20AVmixup%20significantly%20improves%20the%20robust) [[PyTorch]](https://github.com/hirokiadachi/Adversarial-vertex-mixup-pytorch)
+- Enhancing Adversarial Training with Second-Order Statistics of Weights. (CVPR, 2022) [[paper]](https://arxiv.org/abs/2203.06020) [[code]](https://github.com/Alexkael/S2O)
 - Double Descent in Adversarial Training: An Implicit Label Noise Perspective. (ICLR, 2022) [[paper](http://arxiv.org/abs/2110.03135)]
 - Exploring Memorization in Adversarial Training. (ICLR, 2022) [[paper](http://arxiv.org/abs/2106.01606)] [[code](https://github.com/dongyp13/memorization-AT)]
 - Towards the Memorization Effect of Neural Networks in Adversarial Training. (ICLR, 2022) [[paper](http://arxiv.org/abs/2106.04794)] [[code](https://anonymous.4open.science/r/benign-adv-77C5)]
