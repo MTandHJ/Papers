@@ -5,15 +5,17 @@
 
 
 
-## New
+## Adversarial Robustness
 
 - Distributionally-robust Recommendations for Improving Worst-case User Experience. (WWW, 2022) [[paper](https://dl.acm.org/doi/10.1145/3485447.3512255)]
 - Learning to Augment for Casual User Recommendation. (WWW, 2022) [[paper](https://arxiv.org/abs/2204.00926)]
+- Attacking Recommender Systems with Augmented User Profiles. (CIKM, 2020) [[paper](https://dl.acm.org/doi/10.1145/3340531.3411884https://dl.acm.org/doi/10.1145/3340531.3411884)]
+- Practical Data Poisoning Attack against Next-Item Recommendation. (WWW, 2020) [[paper](http://arxiv.org/abs/2004.03728)]
 - Adversarial attacks on an oblivious recommender. (RecSys, 2019) [[paper](https://dl.acm.org/doi/epdf/10.1145/3298689.3347031)]
 - Adversarial Collaborative Auto-encoder for Top-N Recommendation. (IJCNN, 2019) [[paper](http://arxiv.org/abs/1808.05361)]
 - Adversarial Personalized Ranking for Recommendation. (SIGIR, 2018) [[paper](http://arxiv.org/abs/1808.03908)] [[code](https://github.com/hexiangnan/adversarial_personalized_ranking)]
 - Data Poisoning Attacks on Factorization-Based Collaborative Filtering. (NIPS, 2016) [[paper](https://arxiv.org/abs/1608.08182)] [[code](https://github.com/fuying-wang/Data-poisoning-attacks-on-factorization-based-collaborative-filtering)]
-
+- Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation. (IJCAI, 2015) [[paper](https://www.ijcai.org/Proceedings/15/Papers/341.pdf)] 
 
 ## Seminal
 
