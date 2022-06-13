@@ -4,6 +4,19 @@
 
 
 
+## Fairness
+
+- CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems. (SIGIR, 2022) [[paper](https://arxiv.org/abs/2204.08085)]
+- FairRec: Fairness-aware News Recommendation with Decomposed Adversarial Learning. (AAAI, 2021) [[paper](https://arxiv.org/abs/2006.16742)]
+
+## Diversity
+
+- Rabbit Holes and Taste Distortion: Distribution-Aware Recommendation with Evolving Interests. (WWW, 2021) [[paper](https://people.engr.tamu.edu/caverlee/pubs/WWW21-Final-Publication.pdf)]
+
+## Privacy
+
+- Graph Embedding for Recommendation against Attribute Inference Attacks. (WWW, 2021) [[paper](http://arxiv.org/abs/2101.12549)]
+
 
 ## Adversarial Robustness
 
