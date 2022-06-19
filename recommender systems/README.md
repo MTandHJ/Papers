@@ -7,6 +7,8 @@
 ## Fairness
 
 - CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems. (SIGIR, 2022) [[paper](https://arxiv.org/abs/2204.08085)]
+- Fairness among New Items in Cold Start Recommender Systems. (SIGIR, 2021) [[paper](https://dl.acm.org/doi/10.1145/3404835.3462948)]
+- Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System. (SIGKDD, 2021) [[paper](http://arxiv.org/abs/2010.15363)]
 - FairRec: Fairness-aware News Recommendation with Decomposed Adversarial Learning. (AAAI, 2021) [[paper](https://arxiv.org/abs/2006.16742)]
 
 ## Diversity
@@ -29,6 +31,15 @@
 - Adversarial Personalized Ranking for Recommendation. (SIGIR, 2018) [[paper](http://arxiv.org/abs/1808.03908)] [[code](https://github.com/hexiangnan/adversarial_personalized_ranking)]
 - Data Poisoning Attacks on Factorization-Based Collaborative Filtering. (NIPS, 2016) [[paper](https://arxiv.org/abs/1608.08182)] [[code](https://github.com/fuying-wang/Data-poisoning-attacks-on-factorization-based-collaborative-filtering)]
 - Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation. (IJCAI, 2015) [[paper](https://www.ijcai.org/Proceedings/15/Papers/341.pdf)] 
+
+
+## GCN
+
+
+- How Powerful is Graph Convolution for Recommendation? (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.07567)] [[code](https://github.com/yshenaw/GF_CF)]
+- LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2002.02126)] [[PyTorch](https://github.com/gusye1234/LightGCN-PyTorch)] [[TensorFlow](https://github.com/kuandeng/LightGCN)]
+
+
 
 ## Seminal
 
