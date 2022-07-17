@@ -6,15 +6,23 @@
 
 ## Fairness
 
+- Explainable Fairness in Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.11159)]
+- Fairness in Recommendation: A Survey. [[paper](http://arxiv.org/abs/2205.13619)] 对 Fairness 的介绍挺详尽的
 - CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems. (SIGIR, 2022) [[paper](https://arxiv.org/abs/2204.08085)]
+- Towards Long-term Fairness in Recommendation. (WSDM, 2021) [[paper](http://arxiv.org/abs/2101.03584)]
 - Fairness among New Items in Cold Start Recommender Systems. (SIGIR, 2021) [[paper](https://dl.acm.org/doi/10.1145/3404835.3462948)]
 - Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System. (SIGKDD, 2021) [[paper](http://arxiv.org/abs/2010.15363)]
 - FairRec: Fairness-aware News Recommendation with Decomposed Adversarial Learning. (AAAI, 2021) [[paper](https://arxiv.org/abs/2006.16742)]
 - A Framework for Understanding Sources of Harm throughout the Machine Learning Life. [[paper](http://arxiv.org/abs/1901.10002)]
+- Multi-stakeholder Recommendation and its Connection to Multi-sided Fairness. (RecSys, 2019) [[paper](http://arxiv.org/abs/1907.13158)]
+- Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random. (ICML, 2019) [[paper](http://yusun-aldrich.com/paper/dr_mnar_full.pdf)]
 - Beyond Parity: Fairness Objectives for Collaborative Filtering. (NIPS, 2017) [[paper](http://arxiv.org/abs/1705.08804)]  提出了几种 Fairness 指标, 可以直接作为一般训练方法的正则项 (文中基于最普通的协同过滤).
 - Counterfactual Fairness. (NIPS, 2017) [[paper](https://papers.nips.cc/paper/2017/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html)] 定义了一种 Counterfactual Fairness, 但是除此之外没看出亮点.
+- Multisided Fairness for Recommendation. (FATML, 2017) [[paper](http://arxiv.org/abs/1707.00093)] 对多方面的 Fairness 进行一个介绍
+- Fairness-Aware Group Recommendation with Pareto-Efficiency. (RecSys, 2017) [[paper](https://dl.acm.org/doi/10.1145/3109859.3109887)]
 - Ranking with Fairness Constraints. [[paper](http://arxiv.org/abs/1704.06840)] 本文讨论在一种'强硬'的 Fairness 约束下, 如何 (快速) re-ranking 以保留尽可能多的收益.
-
+- Recommendations as Treatments: Debiasing Learning and Evaluation. (ICML, 2016) [[paper](https://www.cs.cornell.edu/people/tj/publications/schnabel_etal_16b.pdf)] [[code](https://www.cs.cornell.edu/~schnabts/mnar/)]
+- Evaluation of recommendations: rating-prediction and ranking. (RecSys, 2013) [[paper](https://dl.acm.org/doi/10.1145/2507157.2507160)] 利用插值方法处理推荐系统中的缺失数据, 对三种状况的分析还算有趣.
 
 
 ## Diversity
