@@ -16,6 +16,7 @@
 - A Framework for Understanding Sources of Harm throughout the Machine Learning Life. [[paper](http://arxiv.org/abs/1901.10002)]
 - Multi-stakeholder Recommendation and its Connection to Multi-sided Fairness. (RecSys, 2019) [[paper](http://arxiv.org/abs/1907.13158)]
 - Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random. (ICML, 2019) [[paper](http://yusun-aldrich.com/paper/dr_mnar_full.pdf)]
+- Unbiased offline recommender evaluation for missing-not-at-random implicit feedback. (RecSys, 2018) [[paper](https://vision.cornell.edu/se3/wp-content/uploads/2018/08/recsys18_unbiased_eval.pdf)]
 - Beyond Parity: Fairness Objectives for Collaborative Filtering. (NIPS, 2017) [[paper](http://arxiv.org/abs/1705.08804)]  提出了几种 Fairness 指标, 可以直接作为一般训练方法的正则项 (文中基于最普通的协同过滤).
 - Counterfactual Fairness. (NIPS, 2017) [[paper](https://papers.nips.cc/paper/2017/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html)] 定义了一种 Counterfactual Fairness, 但是除此之外没看出亮点.
 - Multisided Fairness for Recommendation. (FATML, 2017) [[paper](http://arxiv.org/abs/1707.00093)] 对多方面的 Fairness 进行一个介绍
@@ -55,7 +56,11 @@
 - How Powerful is Graph Convolution for Recommendation? (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.07567)] [[code](https://github.com/yshenaw/GF_CF)]
 - Minimizing Polarization and Disagreement in Social Networks via Link Recommendation. (NIPS, 2021) [[paper](https://papers.nips.cc/paper/2021/file/101951fe7ebe7bd8c77d14f75746b4bc-Paper.pdf)]
 - LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2002.02126)] [[PyTorch](https://github.com/gusye1234/LightGCN-PyTorch)] [[TensorFlow](https://github.com/kuandeng/LightGCN)]
-
+- Neural Graph Collaborative Filtering. (SIGIR, 2019) [[paper](http://arxiv.org/abs/1905.08108)] (NGCF)
+- Graph Convolutional Neural Networks for Web-Scale Recommender Systems. (SIGKDD, 2018) [[paper](https://arxiv.org/abs/1806.01973)] (PinSage)
+- HOP-rec: high-order proximity for implicit recommendation. (RecSys, 2018) (Hop-Rec, 分级处理高阶信息)
+- Graph Convolutional Matrix Completion. (SIGKDD, 2017) (GCMC) [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/riannevdberg/gc-mc)] [[PyTorch](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
+- Random-Walk Computation of Similarities between Nodes of a Graph with Application to Collaborative Recommendation. (TKDE, 2017) [[paper](https://www.researchgate.net/publication/3297672_Random-Walk_Computation_of_Similarities_between_Nodes_of_a_Graph_with_Application_to_Collaborative_Recommendation)] (介绍 first-passage time / cost 以及相应的 CTD (Commute Time Distance) 的显式计算公式)
 
 
 ## Seminal
