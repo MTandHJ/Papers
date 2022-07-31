@@ -6,6 +6,7 @@
 
 ## Fairness
 
+- Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/epdf/10.1145/3477495.3531889)]
 - Explainable Fairness in Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.11159)]
 - Fairness in Recommendation: A Survey. [[paper](http://arxiv.org/abs/2205.13619)] 对 Fairness 的介绍挺详尽的
 - CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems. (SIGIR, 2022) [[paper](https://arxiv.org/abs/2204.08085)]
@@ -52,7 +53,10 @@
 
 ## Graph
 
-
+- Towards Representation Alignment and Uniformity in Collaborative Filtering. (SIGKDD, 2022) [[paper](http://arxiv.org/abs/2206.12811)] [[code](https://github.com/THUwangcy/DirectAU)]
+- Knowledge Graph Contrastive Learning for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2205.00976)] [[code](https://github.com/yuh-yang/KGCL-SIGIR22)] (图 + 知识图谱)
+- Less is More: Reweighting Important Spectral Graph Features for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.11346)] [[code](https://github.com/tanatosuu/GDE)] (关于 over-smoothing 的分析倒是有趣)
+- A Review-aware Graph Contrastive Learning Framework for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.12063)]
 - How Powerful is Graph Convolution for Recommendation? (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.07567)] [[code](https://github.com/yshenaw/GF_CF)]
 - Minimizing Polarization and Disagreement in Social Networks via Link Recommendation. (NIPS, 2021) [[paper](https://papers.nips.cc/paper/2021/file/101951fe7ebe7bd8c77d14f75746b4bc-Paper.pdf)]
 - LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2002.02126)] [[PyTorch](https://github.com/gusye1234/LightGCN-PyTorch)] [[TensorFlow](https://github.com/kuandeng/LightGCN)]
@@ -61,6 +65,7 @@
 - HOP-rec: high-order proximity for implicit recommendation. (RecSys, 2018) (Hop-Rec, 分级处理高阶信息)
 - Graph Convolutional Matrix Completion. (SIGKDD, 2017) (GCMC) [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/riannevdberg/gc-mc)] [[PyTorch](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
 - Random-Walk Computation of Similarities between Nodes of a Graph with Application to Collaborative Recommendation. (TKDE, 2017) [[paper](https://www.researchgate.net/publication/3297672_Random-Walk_Computation_of_Similarities_between_Nodes_of_a_Graph_with_Application_to_Collaborative_Recommendation)] (介绍 first-passage time / cost 以及相应的 CTD (Commute Time Distance) 的显式计算公式)
+- DeepWalk: Online Learning of Social Representations. (SIGKDD, 2014) [[paper](http://arxiv.org/abs/1403.6652)]
 
 
 ## Seminal
