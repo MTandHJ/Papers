@@ -84,4 +84,15 @@
 - Amazon.com Recommendations Item-to-Item Collaborative Filtering. (IEEE Internet Computing, 2003) [[code](https://github.com/rita05616/Amazon-Recommendation-System)]
 
 
+## Survey
+
+- A Survey on Trustworthy Recommender Systems. [[paper](http://arxiv.org/abs/2207.12515)]
+
+
+## Other
+
+- DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531967)] [[code](https://github.com/cjx96/DisenCDR)] (跨域训练, 互信息)
+- Explainable Recommendation with Comparative Constraints on Product Aspects. (WSDM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3437963.3441754)] (可解释性)
+- Putting Users in Control of their Recommendations. (RecSys, 2015) [[paper](https://dl.acm.org/doi/10.1145/2792838.2800179)] (交互, 用户可控)
+- Being Accurate is Not Enough: How Accuracy Metrics have hurt Recommender Systems. (2006) (测度)
 
