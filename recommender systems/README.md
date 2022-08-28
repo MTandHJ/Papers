@@ -6,6 +6,8 @@
 
 ## Fairness
 
+
+- Invariant Preference Learning for General Debiasing in Recommendation. (KDD, 2022) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539439)] [[code](https://github.com/AIflowerQ/InvPref_KDD_2022)] (debias; EM; adversarial training)
 - Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis. (KDD, 2022) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539240)] [[code](https://github.com/Dingseewhole/Robust_Deconfounder_master/)] (selection bias; novel)
 - Comprehensive Fair Meta-learned Recommender System. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.04789)] (Fairness; 元学习; 多任务)
 - Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/epdf/10.1145/3477495.3531889)]
@@ -22,12 +24,14 @@
 - Multi-stakeholder Recommendation and its Connection to Multi-sided Fairness. (RecSys, 2019) [[paper](http://arxiv.org/abs/1907.13158)]
 - Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random. (ICML, 2019) [[paper](http://yusun-aldrich.com/paper/dr_mnar_full.pdf)]
 - Unbiased offline recommender evaluation for missing-not-at-random implicit feedback. (RecSys, 2018) [[paper](https://vision.cornell.edu/se3/wp-content/uploads/2018/08/recsys18_unbiased_eval.pdf)]
+- Causal Embeddings for Recommendation. (RecSys 2018) [[paper](http://arxiv.org/abs/1706.07639)] [[code](https://github.com/criteo-research/CausE)] (selection bias; casual; uniform)
 - Beyond Parity: Fairness Objectives for Collaborative Filtering. (NIPS, 2017) [[paper](http://arxiv.org/abs/1705.08804)]  提出了几种 Fairness 指标, 可以直接作为一般训练方法的正则项 (文中基于最普通的协同过滤).
 - Counterfactual Fairness. (NIPS, 2017) [[paper](https://papers.nips.cc/paper/2017/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html)] 定义了一种 Counterfactual Fairness, 但是除此之外没看出亮点.
 - Multisided Fairness for Recommendation. (FATML, 2017) [[paper](http://arxiv.org/abs/1707.00093)] 对多方面的 Fairness 进行一个介绍
 - Fairness-Aware Group Recommendation with Pareto-Efficiency. (RecSys, 2017) [[paper](https://dl.acm.org/doi/10.1145/3109859.3109887)]
 - Ranking with Fairness Constraints. [[paper](http://arxiv.org/abs/1704.06840)] 本文讨论在一种'强硬'的 Fairness 约束下, 如何 (快速) re-ranking 以保留尽可能多的收益.
 - Recommendations as Treatments: Debiasing Learning and Evaluation. (ICML, 2016) [[paper](https://www.cs.cornell.edu/people/tj/publications/schnabel_etal_16b.pdf)] [[code](https://www.cs.cornell.edu/~schnabts/mnar/)]
+- Causal Inference for Recommendation. (2016) [[paper](https://dawenl.github.io/publications/LiangCB16-causalrec.pdf)] (selection bias; causal; '无偏'数据集采集方法)
 - Evaluation of recommendations: rating-prediction and ranking. (RecSys, 2013) [[paper](https://dl.acm.org/doi/10.1145/2507157.2507160)] 利用插值方法处理推荐系统中的缺失数据, 对三种状况的分析还算有趣.
 
 
@@ -57,6 +61,8 @@
 
 ## Graph
 
+- Localized Graph Collaborative Filtering. (2022) [[paper](http://arxiv.org/abs/2108.04475)] (舍弃 embeddings)
+- Research on Recommendation Algorithm of Joint Light Graph Convolution Network and DropEdge. (Journal of Advanced Transportation, 2022)
 - Towards Representation Alignment and Uniformity in Collaborative Filtering. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.12811)] [[code](https://github.com/THUwangcy/DirectAU)]
 - Knowledge Graph Contrastive Learning for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2205.00976)] [[code](https://github.com/yuh-yang/KGCL-SIGIR22)] (图 + 知识图谱)
 - Less is More: Reweighting Important Spectral Graph Features for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.11346)] [[code](https://github.com/tanatosuu/GDE)] (关于 over-smoothing 的分析倒是有趣)
@@ -71,7 +77,7 @@
 - Graph Convolutional Matrix Completion. (KDD, 2017) (GCMC) [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/riannevdberg/gc-mc)] [[PyTorch](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
 - Random-Walk Computation of Similarities between Nodes of a Graph with Application to Collaborative Recommendation. (TKDE, 2017) [[paper](https://www.researchgate.net/publication/3297672_Random-Walk_Computation_of_Similarities_between_Nodes_of_a_Graph_with_Application_to_Collaborative_Recommendation)] (介绍 first-passage time / cost 以及相应的 CTD (Commute Time Distance) 的显式计算公式)
 - DeepWalk: Online Learning of Social Representations. (KDD, 2014) [[paper](http://arxiv.org/abs/1403.6652)]
-
+- ItemRank: A Random-Walk Based Scoring Algorithm for Recommender Engines. (IJCAI, 2007) [[paper](https://www.ijcai.org/Proceedings/07/Papers/444.pdf)]
 
 ## Seminal
 

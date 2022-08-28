@@ -10,6 +10,7 @@
 
 ## Graph
 
+- DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. (ICLR, 2020) [[paper](http://arxiv.org/abs/1907.10903)] [[code](https://github.com/DropEdge/DropEdge)] (graph; over-smoothing; dropout)
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning. (AAAI, 2018) [[paper](http://arxiv.org/abs/1801.07606)] (讲了之前 GCN 的弊端, normalzied Laplacian 矩阵 特征值:[-1, 1])
 - Semi-Supervised Classification with Graph Convolutional Networks. (ICLR, 2017) [[paper](http://arxiv.org/abs/1609.02907)] [[code](https://github.com/tkipf/gcn)] (GCN, seminal)
 - Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering. (NIPS, 2016) [[paper](https://proceedings.neurips.cc/paper/2016/hash/04df4d434d481c5bb723be1b6df1ee65-Abstract.html)] [[code](https://github.com/mdeff/cnn_graph)] (GCN, 切比雪夫核)
