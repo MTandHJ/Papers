@@ -93,6 +93,7 @@
 - Factorization Machines. (ICDM, 2010) [[paper](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf)]
 - AutoRec: Autoencoders Meet Collaborative Filtering. (WWW, 2015) [[paper](http://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)] [[code](https://github.com/NeWnIx5991/AutoRec-for-CF)]
 - Amazon.com Recommendations Item-to-Item Collaborative Filtering. (IEEE Internet Computing, 2003) [[code](https://github.com/rita05616/Amazon-Recommendation-System)]
+- The PageRank Citation Ranking: Bringing Order to the Web. (Technical report, 1998) [[paper](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)]
 
 
 ## Survey
@@ -106,5 +107,6 @@
 - DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531967)] [[code](https://github.com/cjx96/DisenCDR)] (跨域训练, 互信息)
 - Explainable Recommendation with Comparative Constraints on Product Aspects. (WSDM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3437963.3441754)] (可解释性)
 - Putting Users in Control of their Recommendations. (RecSys, 2015) [[paper](https://dl.acm.org/doi/10.1145/2792838.2800179)] (交互, 用户可控)
+- Collaborative Filtering for Implicit Feedback Datasets. (ICDM, 2008) [[paper](http://yifanhu.net/PUB/cf.pdf)] (MF 在 implicit data 上的应用)
 - Being Accurate is Not Enough: How Accuracy Metrics have hurt Recommender Systems. (2006) (测度)
 
