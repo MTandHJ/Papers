@@ -77,10 +77,13 @@
 - Graph Convolutional Matrix Completion. (KDD, 2017) (GCMC) [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/riannevdberg/gc-mc)] [[PyTorch](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
 - Random-Walk Computation of Similarities between Nodes of a Graph with Application to Collaborative Recommendation. (TKDE, 2017) [[paper](https://www.researchgate.net/publication/3297672_Random-Walk_Computation_of_Similarities_between_Nodes_of_a_Graph_with_Application_to_Collaborative_Recommendation)] (介绍 first-passage time / cost 以及相应的 CTD (Commute Time Distance) 的显式计算公式)
 - DeepWalk: Online Learning of Social Representations. (KDD, 2014) [[paper](http://arxiv.org/abs/1403.6652)]
+- Supervised Random Walks: Predicting and Recommending Links in Social Networks. (WSDM, 2011) [[paper](https://arxiv.org/abs/1011.4071)] [[code](https://github.com/Pepton21/Supervised-random-walks-with-restarts)] (graph; PageRank; random walk)
 - ItemRank: A Random-Walk Based Scoring Algorithm for Recommender Engines. (IJCAI, 2007) [[paper](https://www.ijcai.org/Proceedings/07/Papers/444.pdf)]
+- Fast Random Walk with Restart and Its Applications. (ICDM, 2006) [[paper](http://ieeexplore.ieee.org/document/4053087/)]
 
 ## Seminal
 
+- ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest. (KDD, 2022) [[paper](http://arxiv.org/abs/2205.11728)] (novel; empirical; seminal; multi-task)
 - Variational Autoencoders for Collaborative Filtering. (WWW, 2018) [[paper](https://www.cnblogs.com/MTandHJ/p/16460617.html)] [[code](https://github.com/dawenl/vae_cf)]
 - Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks. (IJCAI, 2017) [[paper](https://www.ijcai.org/proceedings/2017/435)] [[code](https://github.com/hexiangnan/attentional_factorization_machine)] [[PyTorch](https://github.com/shenweichen/DeepCTR-PyTorch)] [[TensorFlow](https://github.com/shenweichen/DeepCTR)]
 - Neural Factorization Machines for Sparse Predictive Analytics. (SIGIR, 2017) [[paper](https://dl.acm.org/doi/10.1145/3077136.3080777)] [[code](https://github.com/hexiangnan/neural_factorization_machine)] [[PyTorch](https://github.com/xue-pai/FuxiCTR)] [[TensorFlow](https://github.com/shenweichen/DeepCTR)]
@@ -103,6 +106,7 @@
 
 ## Other
 
+- Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction. (KDD, 2022) [[paper](http://arxiv.org/abs/2112.11136)] (novel; theoretical; E&E; adversarial)
 - Improving Location Recommendation with Urban Knowledge Graph. (KDD, 2022) [[paper](http://arxiv.org/abs/2111.01013)] (POI; graph; casual inference)
 - DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531967)] [[code](https://github.com/cjx96/DisenCDR)] (跨域训练, 互信息)
 - Explainable Recommendation with Comparative Constraints on Product Aspects. (WSDM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3437963.3441754)] (可解释性)
