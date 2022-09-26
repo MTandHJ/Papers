@@ -106,10 +106,15 @@
 
 ## Other
 
+- Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. (NIPS, 2022) [[paper](http://arxiv.org/abs/2205.14859)] (importance sampling; theoretical; novel)
 - Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction. (KDD, 2022) [[paper](http://arxiv.org/abs/2112.11136)] (novel; theoretical; E&E; adversarial)
 - Improving Location Recommendation with Urban Knowledge Graph. (KDD, 2022) [[paper](http://arxiv.org/abs/2111.01013)] (POI; graph; casual inference)
 - DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531967)] [[code](https://github.com/cjx96/DisenCDR)] (跨域训练, 互信息)
 - Explainable Recommendation with Comparative Constraints on Product Aspects. (WSDM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3437963.3441754)] (可解释性)
+- Personalized Ranking with Importance Sampling. (WWW, 2020) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380187)] (importance sampling; theoretical; novel)
+- Sampling-bias-corrected neural modeling for large corpus item recommendations. [[paper](https://dl.acm.org/doi/10.1145/3298689.3346996)]  (importance sampling; theoretical; novel)
+- Sampling-bias-corrected neural modeling for large corpus item recommendations. (RecSys, 2019) [[paper](https://dl.acm.org/doi/10.1145/3298689.3346996)] (novel; empirical; bias; importance sampling)
+- Adaptive Sampled Softmax with Kernel Based Sampling. (ICML, 2018) [[paper](http://arxiv.org/abs/1712.00527)] (importance sampling; theoretical; novel)
 - Putting Users in Control of their Recommendations. (RecSys, 2015) [[paper](https://dl.acm.org/doi/10.1145/2792838.2800179)] (交互, 用户可控)
 - Collaborative Filtering for Implicit Feedback Datasets. (ICDM, 2008) [[paper](http://yifanhu.net/PUB/cf.pdf)] (MF 在 implicit data 上的应用)
 - Being Accurate is Not Enough: How Accuracy Metrics have hurt Recommender Systems. (2006) (测度)
