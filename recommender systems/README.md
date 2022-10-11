@@ -7,6 +7,7 @@
 ## Fairness
 
 
+- EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks. (WWW, 2022) [[paper](https://www.cnblogs.com/MTandHJ/p/16772522.html)] [[code](https://github.com/yushundong/EDITS)] (wow; seminal; empirical; graph; GNN; fairness)
 - Invariant Preference Learning for General Debiasing in Recommendation. (KDD, 2022) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539439)] [[code](https://github.com/AIflowerQ/InvPref_KDD_2022)] (debias; EM; adversarial training)
 - Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis. (KDD, 2022) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539240)] [[code](https://github.com/Dingseewhole/Robust_Deconfounder_master/)] (selection bias; novel)
 - Comprehensive Fair Meta-learned Recommender System. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.04789)] (Fairness; 元学习; 多任务)
@@ -14,12 +15,14 @@
 - Explainable Fairness in Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.11159)]
 - Fairness in Recommendation: A Survey. [[paper](http://arxiv.org/abs/2205.13619)] 对 Fairness 的介绍挺详尽的
 - CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems. (SIGIR, 2022) [[paper](https://arxiv.org/abs/2204.08085)]
+- Say No to the Discrimination: Learning Fair Graph Neural Networks with Limited Sensitive Attribute Information. (WSDM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3437963.3441752)] (wow; theoretical; graph; GNN; fairness)
 - AutoDebias: Learning to Debias for Recommendation. (SIGIR, 2021) [[paper](http://arxiv.org/abs/2105.04170)] [[code](https://github.com/DongHande/AutoDebias)]
 - Towards Long-term Fairness in Recommendation. (WSDM, 2021) [[paper](http://arxiv.org/abs/2101.03584)]
 - Fairness among New Items in Cold Start Recommender Systems. (SIGIR, 2021) [[paper](https://dl.acm.org/doi/10.1145/3404835.3462948)]
 - Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System. (KDD, 2021) [[paper](http://arxiv.org/abs/2010.15363)]
 - FairRec: Fairness-aware News Recommendation with Decomposed Adversarial Learning. (AAAI, 2021) [[paper](https://arxiv.org/abs/2006.16742)]
 - Enhanced Doubly Robust Learning for Debiasing Post-click Conversion Rate Estimation. (SIGIR, 2021) [[paper](http://arxiv.org/abs/2105.13623)] [[code](https://github.com/guosyjlu/MRDR-DL)] (Double robustness; Post-click; IPS; MNAR)
+- Fairness without Demographics through Adversarially Reweighted Learning. (NIPS, 2020) [[paper](http://arxiv.org/abs/2006.13114)] [[code](https://github.com/google-research/google-research/tree/master/group_agnostic_fairness)] (novel; empirical; fairness)
 - A Framework for Understanding Sources of Harm throughout the Machine Learning Life. [[paper](http://arxiv.org/abs/1901.10002)]
 - Multi-stakeholder Recommendation and its Connection to Multi-sided Fairness. (RecSys, 2019) [[paper](http://arxiv.org/abs/1907.13158)]
 - Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random. (ICML, 2019) [[paper](http://yusun-aldrich.com/paper/dr_mnar_full.pdf)]
@@ -42,6 +45,7 @@
 
 ## Privacy
 
+- FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation. (ICML, workshop, 2021) [[paper](https://arxiv.org/abs/2102.04925v2)] (novel; graph; GNN; privacy; federated learning)
 - Graph Embedding for Recommendation against Attribute Inference Attacks. (WWW, 2021) [[paper](http://arxiv.org/abs/2101.12549)]
 
 

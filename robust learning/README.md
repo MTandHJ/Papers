@@ -56,10 +56,12 @@
 
 - Globally-Robust Neural Networks. (ICML, 2021) [[paper](http://arxiv.org/abs/2102.08452)] [[code](https://github.com/klasleino/gloro/blob/master/gloro/models.py)]
 - CROWN-IBP: Towards Stable and Efficient Training of Verifiably Robust Neural Networks. (ICLR, 2020) [[paper](https://arxiv.org/abs/1906.06316)] [[code](https://github.com/huanzhang12/CROWN-IBP)]
+- Certifiable Robustness and Robust Training for Graph Convolutional Networks. (KDD, 2019) [[paper](http://arxiv.org/abs/1906.12269)] [[code](https://www.kdd.in.tum.de/robust-gcn)] (novel; theoretical; wow; seminal; graph; GNN; attack; defense)
 - Certified Adversarial Robustness via Randomized Smoothing. (ICML, 2019) [[paper](https://arxiv.org/pdf/1902.02918.pdf)] [[code](https://github.com/locuslab/smoothing)]
 - Certified Robustness to Adversarial Examples with Differential Privacy. (S&P, 2019) [[paper](https://arxiv.org/abs/1802.03471)]
 - Scalable verified training for provably robust image classification. (ICCV, 2019) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gowal_Scalable_Verified_Training_for_Provably_Robust_Image_Classification_ICCV_2019_paper.pdf)]
 - Efficient Neural Network Robustness Certification with General Activation Functions. (NIPS, 2018) [[paper](https://arxiv.org/abs/1811.00866)] [[code](https://github.com/deepmind/interval-bound-propagation)]
+- Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data. (ICLR, 2017) [[paper](http://arxiv.org/abs/1610.05755)] [[code](https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers)] (seminal; differential privacy; novel; theoretical)
 
 
 ## Architecture
@@ -73,6 +75,7 @@
 - Understanding Robustness of Transformers for Image Classification. (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhojanapalli_Understanding_Robustness_of_Transformers_for_Image_Classification_ICCV_2021_paper.pdf?msclkid=1b733cf2b19211ec85bbc10d4a9a4d95)]
 - Improving Adversarial Robustness via Channel-Wise Activation Suppressing. (ICLR, 2021) [[paper](https://arxiv.org/pdf/2103.08307.pdf)] [[code](https://github.com/bymavis/CAS_ICLR2021)]
 - Improving Adversarial Robustness of CNNs via Channel-Wise Importance-Based Feature Selection. (ICML, 2021) [[paper](http://arxiv.org/abs/2102.05311)]
+- Robust Graph Convolutional Networks Against Adversarial Attacks. (KDD, 2019) [[paper](https://dl.acm.org/doi/10.1145/3292500.3330851)] (emmm; graph; empirical; GNN; adversarial; defense)
 
 
 
@@ -94,12 +97,12 @@
 
 
 
-
 ## Attack
 
 
 - Mind the Box: ℓ1-APGD for Sparse Adversarial Attacks on Image Classifiers. (ICML, 2021) [[paper](https://arxiv.org/abs/2103.01208)] [[code](https://github.com/fra31/auto-attack)]
 - **Reliable Evaluation of Adversarial Robustness with An Ensemble of Diverse Parameter-Free Attacks.** (ICML, 2020) [[paper](http://arxiv.org/abs/2003.01690)] [[code](https://github.com/fra31/auto-attack)]
+- Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective. (IJCAI, 2019) [[paper](http://arxiv.org/abs/1906.04214)] [[code](https://github.com/KaidiXu/GCN_ADV_Train)] (adversarial; attack; empirical; GNN; graph; novel; defense)
 - AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets. (2019) [[paper](https://arxiv.org/abs/1904.07793)]
 - One Pixel Attack for Fooling Deep Neural Networks. (2019) [[paper](https://arxiv.org/pdf/1710.08864.pdf)]
 - Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. (ICML, 2018) [[paper](https://arxiv.org/pdf/1802.00420.pdf)]
