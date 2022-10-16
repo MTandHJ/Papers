@@ -49,6 +49,16 @@
 - Graph Embedding for Recommendation against Attribute Inference Attacks. (WWW, 2021) [[paper](http://arxiv.org/abs/2101.12549)]
 
 
+## Explainability
+
+
+- ProtGNN: Towards Self-Explaining Graph Neural Networks. (AAAI, 2022) [[paper](http://arxiv.org/abs/2112.00911)] (emmm; graph; empirical; explainability; GNN)
+- Causal screening to interpret graph neural networks. (2021) (emmm; empriical; casual; explainability; graph; GNN)
+- XGNN: Towards Model-Level Explanations of Graph Neural Networks. (KDD, 2020) [[paper](http://arxiv.org/abs/2006.02587)] (emmm; graph; empirical; RL; explainability; GNN; model-level; graph-level)
+- GNNExplainer: Generating Explanations for Graph Neural Networks. (NIPS, 2019) [[paper](http://arxiv.org/abs/1903.03894)] [[code](https://github.com/RexYing/gnn-model-explainer)] (emmm; empirical; graph; GNN; post hoc; explainability)
+- Explainability Methods for Graph Convolutional Neural Networks. (CVPR, 2019) [[paper](https://ieeexplore.ieee.org/document/8954227/)] (emmmm; empirical; CAM; EB; graph; GNN; explainability)
+
+
 ## Adversarial Robustness
 
 - Distributionally-robust Recommendations for Improving Worst-case User Experience. (WWW, 2022) [[paper](https://dl.acm.org/doi/10.1145/3485447.3512255)]
