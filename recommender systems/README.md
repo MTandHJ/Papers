@@ -75,12 +75,14 @@
 
 ## Graph
 
+- SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.12689)] [[code](https://github.com/tanatosuu/svd_gcn)] (novel; theoretical; graph; GNN; over-smoothing)
 - Localized Graph Collaborative Filtering. (2022) [[paper](http://arxiv.org/abs/2108.04475)] (舍弃 embeddings)
 - Research on Recommendation Algorithm of Joint Light Graph Convolution Network and DropEdge. (Journal of Advanced Transportation, 2022)
 - Towards Representation Alignment and Uniformity in Collaborative Filtering. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.12811)] [[code](https://github.com/THUwangcy/DirectAU)]
 - Knowledge Graph Contrastive Learning for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2205.00976)] [[code](https://github.com/yuh-yang/KGCL-SIGIR22)] (图 + 知识图谱)
 - Less is More: Reweighting Important Spectral Graph Features for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.11346)] [[code](https://github.com/tanatosuu/GDE)] (关于 over-smoothing 的分析倒是有趣)
 - A Review-aware Graph Contrastive Learning Framework for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.12063)]
+- UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation. (CIKM, 2021) [[paper](http://arxiv.org/abs/2110.15114)] [[code](https://github.com/xue-pai/UltraGCN)] (novel; theoretical; over-smoothing; graph; GNN)
 - SimpleX: A Simple and Strong Baseline for Collaborative Filtering. (CIKM, 2021) [[paper](http://arxiv.org/abs/2109.12613)] [[code](https://github.com/xue-pai/TwoTowers)] (TwoTowers)
 - How Powerful is Graph Convolution for Recommendation? (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.07567)] [[code](https://github.com/yshenaw/GF_CF)]
 - Minimizing Polarization and Disagreement in Social Networks via Link Recommendation. (NIPS, 2021) [[paper](https://papers.nips.cc/paper/2021/file/101951fe7ebe7bd8c77d14f75746b4bc-Paper.pdf)]

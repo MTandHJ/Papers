@@ -20,6 +20,7 @@
 - On the Bottleneck of Graph Neural Networks and Its Practical Implications. (ICLR, 2021) [[paper](https://arxiv.org/abs/2006.05205)] [[code](https://github.com/tech-srl/bottleneck/)] (novel; empirical; graph; GNN; over-squashing)
 - A Unified View on Graph Neural Networks as Graph Signal Denoising. (CIKM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482225)] [[code](https://github.com/alge24/ADA-UGNN)] (seminal; novel; theoretical; graph; GNN; denoising)
 - Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs. (NIPS, 2020) [[paper](https://arxiv.org/abs/2006.11468)] [[code](https://github.com/GemsLab/H2GCN)] (novel; theoretical; graph; GNN)
+- Simple and Deep Graph Convolutional Networks. (ICML, 2020) [[paper](http://arxiv.org/abs/2007.02133)] [[code](https://github.com/chennnM/GCNII)] (novel; theoretical; graph; GNN; over-smoothing)
 - DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. (ICLR, 2020) [[paper](http://arxiv.org/abs/1907.10903)] [[code](https://github.com/DropEdge/DropEdge)] (graph; over-smoothing; dropout)
 - Simplifying Graph Convolutional Networks. (ICML, 2019) [[paper](Simplifying Graph Convolutional Networks)] [[code](https://github.com/Tiiiger/SGC)] (graph; novel; GNN; empirical; SGC)
 - How Powerful are Graph Neural Networks? (ICLR, 2019) [[paper](http://arxiv.org/abs/1810.00826)] [[code](https://github.com/weihua916/powerful-gnns)] (wow; seminal; theoretical; graph; WL-Test)
