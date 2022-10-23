@@ -10,12 +10,21 @@
 
 ## Graph
 
+- How Powerful is Implicit Denoising in Graph Neural Networks. (2022) [[paper](http://arxiv.org/abs/2209.14514)] (novel; wow; theoretical; graph; GNN; denoising)
+- SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.12689)] (novel; theoretical; graph; GNN; smoothing)
 - Releasing Graph Neural Networks with Differential Privacy Guarantees. (2022) [[paper](http://arxiv.org/abs/2109.08907)] (novel; theoretical; graph; GNN; differential privacy)
 - A Survey on Graph Representation Learning Methods. [[paper](https://arxiv.org/abs/2204.01855)]
 - Learning Causal Effects on Hypergraphs. (KDD, 2022) [[paper](http://arxiv.org/abs/2207.04049)] (emmm; empirical; graph; hypergraph; causal)
 - Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.07743)] [[code](https://github.com/ChandlerBang/DeCorr)] (wow; empirical; graph; over-smoothing)
 - GraphMAE: Self-Supervised Masked Graph Autoencoders. (KDD, 2022) [[paper](http://arxiv.org/abs/2205.10803)] [[code](https://github.com/THUDM/GraphMAE)] (novel; empirical; graph; self-supervised)
+- Elastic Graph Neural Networks. (ICML, 2022) [[paper](https://proceedings.mlr.press/v139/liu21k.html)] (novel; theoretical; robust; graph; GNN)
+- PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations. (NIPS, 2021) [[paper](http://arxiv.org/abs/2108.01938)] (novel; theoretical; graph; GNN; PDE)
+- MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems. (KDD, 2021) [[paper](https://ericdongyx.github.io/papers/KDD21-Huang-et-al-MixGCF.pdf)] (novel; empirical; graph; GNN; sampling)
+- Interpreting and Unifying Graph Neural Networks with An Optimization Framework. (WWW, 2021) [[paper](https://dl.acm.org/doi/10.1145/3442381.3449953)] (novel; theoretical; denoising; graph; GNN)
+- Graph Neural Networks with Adaptive Residual. (NIPS, 2021) [[paper](Graph Neural Networks with Adaptive Residual)] (novel; theoretical; graph; GNN)
 - Towards Self-Explainable Graph Neural Network. (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.12055)] [[code](https://github.com/EnyanDai/SEGNN)] (novel; empirical; graph; GNN; explainability)
+- UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation. (CIKM, 2021) [[paper](http://arxiv.org/abs/2110.15114)] (novel; theoretical; graph; GNN, smoothing)
+- GRAND: Graph Neural Diffusion. (ICML, 2021) [[paper](http://arxiv.org/abs/2106.10934)] (novel; graph; GNN; PDE)
 - Inference Attacks Against Graph Neural Networks. (2021) [[paper](http://arxiv.org/abs/2110.02631)] [[code](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)] (emmm; empirical; graph; inference attacks; GNN)
 - On the Bottleneck of Graph Neural Networks and Its Practical Implications. (ICLR, 2021) [[paper](https://arxiv.org/abs/2006.05205)] [[code](https://github.com/tech-srl/bottleneck/)] (novel; empirical; graph; GNN; over-squashing)
 - A Unified View on Graph Neural Networks as Graph Signal Denoising. (CIKM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482225)] [[code](https://github.com/alge24/ADA-UGNN)] (seminal; novel; theoretical; graph; GNN; denoising)
