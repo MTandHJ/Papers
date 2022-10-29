@@ -6,7 +6,9 @@
 
 ## Fairness
 
-
+- Unbiased Learning to Rank with Biased Continuous Feedback. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557483)] [[code](https://github.com/phyllist/ULTRA)] (novel; empirical; position bias; trust bias; IPS)
+- Representation Matters When Learning From Biased Feedback in Recommendation. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557431)] (novel; theoretical; selection bias; adversarial; divergence)
+- Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.03298)] (emmm; empirical; CTR; popularity bias)
 - EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks. (WWW, 2022) [[paper](https://www.cnblogs.com/MTandHJ/p/16772522.html)] [[code](https://github.com/yushundong/EDITS)] (wow; seminal; empirical; graph; GNN; fairness)
 - Invariant Preference Learning for General Debiasing in Recommendation. (KDD, 2022) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539439)] [[code](https://github.com/AIflowerQ/InvPref_KDD_2022)] (debias; EM; adversarial training)
 - Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis. (KDD, 2022) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539240)] [[code](https://github.com/Dingseewhole/Robust_Deconfounder_master/)] (selection bias; novel)
