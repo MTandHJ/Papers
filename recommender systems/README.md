@@ -6,6 +6,8 @@
 
 ## Fairness
 
+- Rank List Sensitivity of Recommender Systems to Interaction Perturbations. (CIKM) [[paper](http://arxiv.org/abs/2201.12686)]
+- Towards Principled User-side Recommender Systems. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.09864)]
 - Unbiased Learning to Rank with Biased Continuous Feedback. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557483)] [[code](https://github.com/phyllist/ULTRA)] (novel; empirical; position bias; trust bias; IPS)
 - Representation Matters When Learning From Biased Feedback in Recommendation. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557431)] (novel; theoretical; selection bias; adversarial; divergence)
 - Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.03298)] (emmm; empirical; CTR; popularity bias)
@@ -88,9 +90,11 @@
 - SimpleX: A Simple and Strong Baseline for Collaborative Filtering. (CIKM, 2021) [[paper](http://arxiv.org/abs/2109.12613)] [[code](https://github.com/xue-pai/TwoTowers)] (TwoTowers)
 - How Powerful is Graph Convolution for Recommendation? (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.07567)] [[code](https://github.com/yshenaw/GF_CF)]
 - Minimizing Polarization and Disagreement in Social Networks via Link Recommendation. (NIPS, 2021) [[paper](https://papers.nips.cc/paper/2021/file/101951fe7ebe7bd8c77d14f75746b4bc-Paper.pdf)]
+- Deoscillated Graph Collaborative Filtering. (2020) [[paper](http://arxiv.org/abs/2011.02100)] [[code](https://www.cnblogs.com/MTandHJ/p/16841462.html)] (novel; empirical; graph; GNN)
+- Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications. (ICDE, 2020) [[paper](https://ieeexplore.ieee.org/document/9101846/)] (novel; empirical; sampling; large-scale)
 - LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2002.02126)] [[PyTorch](https://github.com/gusye1234/LightGCN-PyTorch)] [[TensorFlow](https://github.com/kuandeng/LightGCN)]
 - Neural Graph Collaborative Filtering. (SIGIR, 2019) [[paper](http://arxiv.org/abs/1905.08108)] (NGCF)
-- Graph Convolutional Neural Networks for Web-Scale Recommender Systems. (KDD, 2018) [[paper](https://arxiv.org/abs/1806.01973)] (PinSage)
+- Graph Convolutional Neural Networks for Web-Scale Recommender Systems. (KDD, 2018) [[paper](https://arxiv.org/abs/1806.01973)] (PinSage; large-scale; novel; empirical; random-walk)
 - HOP-rec: high-order proximity for implicit recommendation. (RecSys, 2018) (Hop-Rec, 分级处理高阶信息)
 - Graph Convolutional Matrix Completion. (KDD, 2017) (GCMC) [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/riannevdberg/gc-mc)] [[PyTorch](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
 - Random-Walk Computation of Similarities between Nodes of a Graph with Application to Collaborative Recommendation. (TKDE, 2017) [[paper](https://www.researchgate.net/publication/3297672_Random-Walk_Computation_of_Similarities_between_Nodes_of_a_Graph_with_Application_to_Collaborative_Recommendation)] (介绍 first-passage time / cost 以及相应的 CTD (Commute Time Distance) 的显式计算公式)
