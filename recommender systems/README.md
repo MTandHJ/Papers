@@ -62,6 +62,9 @@
 - GNNExplainer: Generating Explanations for Graph Neural Networks. (NIPS, 2019) [[paper](http://arxiv.org/abs/1903.03894)] [[code](https://github.com/RexYing/gnn-model-explainer)] (emmm; empirical; graph; GNN; post hoc; explainability)
 - Explainability Methods for Graph Convolutional Neural Networks. (CVPR, 2019) [[paper](https://ieeexplore.ieee.org/document/8954227/)] (emmmm; empirical; CAM; EB; graph; GNN; explainability)
 
+## Cold-start
+
+- Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation. (WSDM, 2021) [[paper](http://arxiv.org/abs/2012.07064)] (emmm; empirical; graph; GNN; pretraining; cold-start)
 
 ## Adversarial Robustness
 
@@ -79,6 +82,8 @@
 
 ## Graph
 
+- MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering. (2022) [[paper](http://arxiv.org/abs/2204.02338)] [[code](https://github.com/hujunxianligong/MGDCF)] (emmm; empirical; graph; GNN; diffusion, markov)
+- Collaboration-Aware Graph Convolutional Network for Recommender Systems. (2022) [[paper](http://arxiv.org/abs/2207.06221)] [[code](https://github.com/YuWVandy/CAGCN)] (novel; wow; theoretical; graph; GNN; reweight)
 - SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.12689)] [[code](https://github.com/tanatosuu/svd_gcn)] (novel; theoretical; graph; GNN; over-smoothing)
 - Localized Graph Collaborative Filtering. (2022) [[paper](http://arxiv.org/abs/2108.04475)] (舍弃 embeddings)
 - Research on Recommendation Algorithm of Joint Light Graph Convolution Network and DropEdge. (Journal of Advanced Transportation, 2022)
@@ -91,8 +96,12 @@
 - How Powerful is Graph Convolution for Recommendation? (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.07567)] [[code](https://github.com/yshenaw/GF_CF)]
 - Minimizing Polarization and Disagreement in Social Networks via Link Recommendation. (NIPS, 2021) [[paper](https://papers.nips.cc/paper/2021/file/101951fe7ebe7bd8c77d14f75746b4bc-Paper.pdf)]
 - Deoscillated Graph Collaborative Filtering. (2020) [[paper](http://arxiv.org/abs/2011.02100)] [[code](https://www.cnblogs.com/MTandHJ/p/16841462.html)] (novel; empirical; graph; GNN)
+- Learning to Hash with Graph Neural Networks for Recommender Systems. (WWW, 2020) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380266)] (emmm; empirical; graph; GNN; hash; recall)
 - Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications. (ICDE, 2020) [[paper](https://ieeexplore.ieee.org/document/9101846/)] (novel; empirical; sampling; large-scale)
 - LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2002.02126)] [[PyTorch](https://github.com/gusye1234/LightGCN-PyTorch)] [[TensorFlow](https://github.com/kuandeng/LightGCN)]
+- Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach. (AAAI, 2020) [[paper](http://arxiv.org/abs/2001.10167)] [[code](https://github.com/newlei/LR-GCCF)] (emmm; empirical; over-smoothing; graph; GNN)
+- Joint Item Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network Approach. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2005.12021)] (emmm; empirical; graph; GNN; joint)
+- STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems. (IJCAI, 2019) [[paper](http://arxiv.org/abs/1905.13129)] [[code](https://github.com/jennyzhang0215/STAR-GCN)] (emmm; empirical; cold-start; graph; GNN)
 - Neural Graph Collaborative Filtering. (SIGIR, 2019) [[paper](http://arxiv.org/abs/1905.08108)] (NGCF)
 - Graph Convolutional Neural Networks for Web-Scale Recommender Systems. (KDD, 2018) [[paper](https://arxiv.org/abs/1806.01973)] (PinSage; large-scale; novel; empirical; random-walk)
 - HOP-rec: high-order proximity for implicit recommendation. (RecSys, 2018) (Hop-Rec, 分级处理高阶信息)
