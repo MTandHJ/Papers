@@ -156,4 +156,3 @@
 - Putting Users in Control of their Recommendations. (RecSys, 2015) [[paper](https://dl.acm.org/doi/10.1145/2792838.2800179)] (交互, 用户可控)
 - Collaborative Filtering for Implicit Feedback Datasets. (ICDM, 2008) [[paper](http://yifanhu.net/PUB/cf.pdf)] (MF 在 implicit data 上的应用)
 - Being Accurate is Not Enough: How Accuracy Metrics have hurt Recommender Systems. (2006) (测度)
-
