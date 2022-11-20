@@ -47,6 +47,10 @@
 - node2vec: Scalable Feature Learning for Networks. (KDD, 2016) [[paper](http://arxiv.org/abs/1607.00653)] [[code](http://snap.stanford.edu/node2vec/)] [[DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/node2vec)] (empirical; seminal; novel; graph)
 - Learning with Partially Absorbing Random Walks. (NIPS, 2012) [[paper](https://proceedings.neurips.cc/paper/2012/hash/512c5cad6c37edb98ae91c8a76c3a291-Abstract.html)] (提出一种图聚类方法, 可以和很多现有方法产生联系, 但是这么定义的来源是什么?)
 
+## VAE
+
+- Deep Variational Information Bottleneck. (ICLR, 2017) [[paper](http://arxiv.org/abs/1612.00410)] (novel; seminal; theoretical; VAE; mutual information)
+
 ## Sparsity
 
 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. (ICLR, 2019) [[paper](http://arxiv.org/abs/1803.03635)] (seminal; pruning)

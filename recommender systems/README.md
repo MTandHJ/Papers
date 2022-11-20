@@ -6,6 +6,8 @@
 
 ## Fairness
 
+- TDR-CL: Targeted Doubly Robust Collaborative Learning for Debiased Recommendations. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=EIgLnNx_lC)] (novel; theoretical; doubly robust; selection bias)
+- Communication Efficient Fair Federated Recommender System. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=ZLv-8v0Sp_H)] (emmm; empirical; fairness; federated learning)
 - Rank List Sensitivity of Recommender Systems to Interaction Perturbations. (CIKM) [[paper](http://arxiv.org/abs/2201.12686)]
 - Towards Principled User-side Recommender Systems. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.09864)]
 - Unbiased Learning to Rank with Biased Continuous Feedback. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557483)] [[code](https://github.com/phyllist/ULTRA)] (novel; empirical; position bias; trust bias; IPS)
@@ -55,7 +57,7 @@
 
 ## Explainability
 
-
+- Explainable Recommender with Geometric Information Bottleneck. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=I_IJf5oDRo)] (emmm; empirical; explainability; graph; mutual information)
 - ProtGNN: Towards Self-Explaining Graph Neural Networks. (AAAI, 2022) [[paper](http://arxiv.org/abs/2112.00911)] (emmm; graph; empirical; explainability; GNN)
 - Causal screening to interpret graph neural networks. (2021) (emmm; empriical; casual; explainability; graph; GNN)
 - XGNN: Towards Model-Level Explanations of Graph Neural Networks. (KDD, 2020) [[paper](http://arxiv.org/abs/2006.02587)] (emmm; graph; empirical; RL; explainability; GNN; model-level; graph-level)
@@ -137,6 +139,11 @@
 
 ## Other
 
+- Multi-Behavior Dynamic Contrastive Learning for Recommendation. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=ykOpK9O5qYv)] (emmm;empirical; contrastive learning; behavior)
+- Where to Go Next for Recommender Systems? ID- vs. Modality-based recommender models revisited. (ICLR, 2023, under review) (emmm; empirical; IDs versus Modality)
+- IEDR: A Context-aware Intrinsic and Extrinsic Disentangled Recommender System. (ICLR, 2023, under reivew) [[paper](https://openreview.net/forum?id=S2N25rUM55l)] (emmm; empirical; contrastive learning)
+- Deep Evidential Reinforcement Learning for Dynamic Recommendations. (ICLR, 2023, rejected) [[paper](https://openreview.net/pdf?id=eoUsOflG7QD)] (emmm; empirical; RL; sequential)
+- Recommender Transformers with Behavior Pathways. (ICLR, 2023, under review) [[paper](http://arxiv.org/abs/2206.06804)] (emmm; empirical; pathway; sequential)
 - Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. (NIPS, 2022) [[paper](http://arxiv.org/abs/2205.14859)] (importance sampling; theoretical; novel)
 - Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction. (KDD, 2022) [[paper](http://arxiv.org/abs/2112.11136)] (novel; theoretical; E&E; adversarial)
 - Improving Location Recommendation with Urban Knowledge Graph. (KDD, 2022) [[paper](http://arxiv.org/abs/2111.01013)] (POI; graph; casual inference)
