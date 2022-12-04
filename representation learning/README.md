@@ -10,6 +10,7 @@
 
 ## Graph
 
+- GREAD: Graph Neural Reaction-Diffusion Equations. (2022) [[paper](https://arxiv-export1.library.cornell.edu/abs/2211.14208)] (novel; empirical; GNN; graph; over-smoothing; diffusion; ODE)
 - How Powerful is Implicit Denoising in Graph Neural Networks. (2022) [[paper](http://arxiv.org/abs/2209.14514)] (novel; wow; theoretical; graph; GNN; denoising)
 - SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.12689)] (novel; theoretical; graph; GNN; smoothing)
 - Releasing Graph Neural Networks with Differential Privacy Guarantees. (2022) [[paper](http://arxiv.org/abs/2109.08907)] (novel; theoretical; graph; GNN; differential privacy)
@@ -26,11 +27,13 @@
 - UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation. (CIKM, 2021) [[paper](http://arxiv.org/abs/2110.15114)] (novel; theoretical; graph; GNN, smoothing)
 - GRAND: Graph Neural Diffusion. (ICML, 2021) [[paper](http://arxiv.org/abs/2106.10934)] (novel; graph; GNN; PDE)
 - Inference Attacks Against Graph Neural Networks. (2021) [[paper](http://arxiv.org/abs/2110.02631)] [[code](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)] (emmm; empirical; graph; inference attacks; GNN)
+- Dissecting the Diffusion Process in Linear Graph Convolutional Networks. (NIPS, 2021) [[paper](http://arxiv.org/abs/2102.10739)] (novel; theoretical; graph; GNN; diffusion; over-smoothing)
 - On the Bottleneck of Graph Neural Networks and Its Practical Implications. (ICLR, 2021) [[paper](https://arxiv.org/abs/2006.05205)] [[code](https://github.com/tech-srl/bottleneck/)] (novel; empirical; graph; GNN; over-squashing)
 - A Unified View on Graph Neural Networks as Graph Signal Denoising. (CIKM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482225)] [[code](https://github.com/alge24/ADA-UGNN)] (seminal; novel; theoretical; graph; GNN; denoising)
 - Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs. (NIPS, 2020) [[paper](https://arxiv.org/abs/2006.11468)] [[code](https://github.com/GemsLab/H2GCN)] (novel; theoretical; graph; GNN)
 - Simple and Deep Graph Convolutional Networks. (ICML, 2020) [[paper](http://arxiv.org/abs/2007.02133)] [[code](https://github.com/chennnM/GCNII)] (novel; theoretical; graph; GNN; over-smoothing)
 - DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. (ICLR, 2020) [[paper](http://arxiv.org/abs/1907.10903)] [[code](https://github.com/DropEdge/DropEdge)] (graph; over-smoothing; dropout)
+- Revisiting Graph Neural Networks: All We Have is Low-Pass Filters. (NIPS, 2019) [[paper](Revisiting Graph Neural Networks: All We Have is Low-Pass Filters)] (novel; theoretical; smoothness; graph; GNN; low-pass)
 - Diffusion Improves Graph Learning. (NIPS, 2019) [[paper](http://arxiv.org/abs/1911.05485)] (novel; empirical; graph; GNN; diffusion)
 - Simplifying Graph Convolutional Networks. (ICML, 2019) [[paper](Simplifying Graph Convolutional Networks)] [[code](https://github.com/Tiiiger/SGC)] (graph; novel; GNN; empirical; SGC)
 - How Powerful are Graph Neural Networks? (ICLR, 2019) [[paper](http://arxiv.org/abs/1810.00826)] [[code](https://github.com/weihua916/powerful-gnns)] (wow; seminal; theoretical; graph; WL-Test)
@@ -54,3 +57,8 @@
 ## Sparsity
 
 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. (ICLR, 2019) [[paper](http://arxiv.org/abs/1803.03635)] (seminal; pruning)
+
+
+## ODE
+
+- Neural Ordinary Differential Equations. (NIPS, 2018) [[paper](http://arxiv.org/abs/1806.07366)]

@@ -139,7 +139,8 @@
 
 ## Other
 
-- Multi-Behavior Dynamic Contrastive Learning for Recommendation. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=ykOpK9O5qYv)] (emmm;empirical; contrastive learning; behavior)
+- Evolutionary Preference Learning via Graph Nested GRU ODE for Session-based Recommendation. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557314)] (emmm; empirical; graph; ODE; sequential)
+- Multi-Behavior Dynamic Contrastive Learning for Recommendation. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=ykOpK9O5qYv)] (emmm; empirical; contrastive learning; behavior)
 - Where to Go Next for Recommender Systems? ID- vs. Modality-based recommender models revisited. (ICLR, 2023, under review) (emmm; empirical; IDs versus Modality)
 - IEDR: A Context-aware Intrinsic and Extrinsic Disentangled Recommender System. (ICLR, 2023, under reivew) [[paper](https://openreview.net/forum?id=S2N25rUM55l)] (emmm; empirical; contrastive learning)
 - Deep Evidential Reinforcement Learning for Dynamic Recommendations. (ICLR, 2023, rejected) [[paper](https://openreview.net/pdf?id=eoUsOflG7QD)] (emmm; empirical; RL; sequential)
