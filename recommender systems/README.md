@@ -84,6 +84,8 @@
 
 ## Graph
 
+- ITSM-GCN: Informative Training Sample Mining for Graph Convolutional Network-based Collaborative Filtering. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557368)] (novel; empirical; sampling; graph; GNN)
+- Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531889)] (novel; empirical; denosing; graph; GNN)
 - MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering. (2022) [[paper](http://arxiv.org/abs/2204.02338)] [[code](https://github.com/hujunxianligong/MGDCF)] (emmm; empirical; graph; GNN; diffusion, markov)
 - Collaboration-Aware Graph Convolutional Network for Recommender Systems. (2022) [[paper](http://arxiv.org/abs/2207.06221)] [[code](https://github.com/YuWVandy/CAGCN)] (novel; wow; theoretical; graph; GNN; reweight)
 - SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.12689)] [[code](https://github.com/tanatosuu/svd_gcn)] (novel; theoretical; graph; GNN; over-smoothing)
