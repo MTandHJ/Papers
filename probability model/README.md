@@ -18,6 +18,7 @@
 - Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding. (2022) [[paper]](http://arxiv.org/abs/2205.11487)  (novel; empirical; conditional; seminal; diffusion)
 - Zero-Shot Text-to-Image Generation. (ICML, 2021) [[paper](http://arxiv.org/abs/2102.12092)] (novel; empirical; zero-shot; generative model)
 - Score-based Generative Modeling Through Stochastic Differential Equations. (ICLR, 2021) [[paper]](http://arxiv.org/abs/2011.13456) (novel; seminal; wow; diffusion; score; theory; SDE; ODE)
+- Structured Denoising Diffusion Models in Discrete State-Spaces. (NIPS, 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/958c530554f78bcd8e97125b70e6973d-Abstract.html)] [[code](https://github.com/google-research/google-research/tree/master/d3pm)] (theoretical; seminal; novel; discrete; diffusion)
 - Variational Diffusion Models. (2021) [[paper]](http://arxiv.org/abs/2107.00630) (novel; seminal; wow; diffusion; SNR; theoretical)
 - Classifier-free Diffusion Guidance. (NIPS, 2021) [[paper]](http://arxiv.org/abs/2207.12598) (novel; empirical; conditional; seminal; diffusion)
 - Cascaded Diffusion Models for High Fidelity Image Generation. (2021) [[paper]](http://arxiv.org/abs/2106.15282) (novel; empirical; conditional; seminal; diffusion)

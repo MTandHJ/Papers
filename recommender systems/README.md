@@ -84,6 +84,7 @@
 
 ## Graph
 
+- Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.13764)] [[code](https://github.com/ruizhang-ai/HIRS_Hypergraph_Infomax_Recommender_System.git)] (novel; empirical; graph; hypergraph; GNN; interactions)
 - ITSM-GCN: Informative Training Sample Mining for Graph Convolutional Network-based Collaborative Filtering. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557368)] (novel; empirical; sampling; graph; GNN)
 - Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531889)] (novel; empirical; denosing; graph; GNN)
 - MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering. (2022) [[paper](http://arxiv.org/abs/2204.02338)] [[code](https://github.com/hujunxianligong/MGDCF)] (emmm; empirical; graph; GNN; diffusion, markov)
@@ -99,6 +100,7 @@
 - SimpleX: A Simple and Strong Baseline for Collaborative Filtering. (CIKM, 2021) [[paper](http://arxiv.org/abs/2109.12613)] [[code](https://github.com/xue-pai/TwoTowers)] (TwoTowers)
 - How Powerful is Graph Convolution for Recommendation? (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.07567)] [[code](https://github.com/yshenaw/GF_CF)]
 - Minimizing Polarization and Disagreement in Social Networks via Link Recommendation. (NIPS, 2021) [[paper](https://papers.nips.cc/paper/2021/file/101951fe7ebe7bd8c77d14f75746b4bc-Paper.pdf)]
+- Disentangled Graph Collaborative Filtering. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2007.01764)] [[code](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)] (novel; empirical; graph; GNN; attention)
 - Deoscillated Graph Collaborative Filtering. (2020) [[paper](http://arxiv.org/abs/2011.02100)] [[code](https://www.cnblogs.com/MTandHJ/p/16841462.html)] (novel; empirical; graph; GNN)
 - Learning to Hash with Graph Neural Networks for Recommender Systems. (WWW, 2020) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380266)] (emmm; empirical; graph; GNN; hash; recall)
 - Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications. (ICDE, 2020) [[paper](https://ieeexplore.ieee.org/document/9101846/)] (novel; empirical; sampling; large-scale)
