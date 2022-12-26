@@ -143,6 +143,7 @@
 
 ## Other
 
+- CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.00242)] (emmm; empirical; graph; contrastive learning; bundle)
 - Evolutionary Preference Learning via Graph Nested GRU ODE for Session-based Recommendation. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557314)] (emmm; empirical; graph; ODE; sequential)
 - Multi-Behavior Dynamic Contrastive Learning for Recommendation. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=ykOpK9O5qYv)] (emmm; empirical; contrastive learning; behavior)
 - Where to Go Next for Recommender Systems? ID- vs. Modality-based recommender models revisited. (ICLR, 2023, under review) (emmm; empirical; IDs versus Modality)
