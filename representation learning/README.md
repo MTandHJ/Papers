@@ -63,3 +63,11 @@
 ## ODE
 
 - Neural Ordinary Differential Equations. (NIPS, 2018) [[paper](http://arxiv.org/abs/1806.07366)]
+
+## Prompt
+
+
+- GPT Understands, Too. (2021) [[paper](https://arxiv.org/pdf/2103.10385.pdf)] (empirical; novel; learnable; prompt)
+- Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification. (ACL, 2022) [[paper](https://aclanthology.org/2022.acl-long.158)] [[code](https://github.com/thunlp/KnowledgeablePromptTuning)] (empirical; emmm; prompt; verbalizer)
+- Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. (ACL, 2021) [[paper](http://arxiv.org/abs/2107.13586)] (prompt; PLM; survey)
+- Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference. (2021) [[paper](https://aclanthology.org/2021.eacl-main.20)] [[code](https://github.com/timoschick/pet)] (empirical; novel; prompt; seminal)
