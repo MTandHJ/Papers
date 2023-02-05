@@ -135,6 +135,16 @@
 - Amazon.com Recommendations Item-to-Item Collaborative Filtering. (IEEE Internet Computing, 2003) [[code](https://github.com/rita05616/Amazon-Recommendation-System)]
 - The PageRank Citation Ranking: Bringing Order to the Web. (Technical report, 1998) [[paper](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)]
 
+## Sequential
+
+- Learning Hierarchical Representation Model for NextBasket Recommendation. (SIGIR, 2015) [[paper](https://dl.acm.org/doi/10.1145/2766462.2767694)] (empirical; novel; sequential; hybrid; HRM)
+- LORE: exploiting sequential influence for location recommendations. (SIGSPATIAL, 2014) [[paper](https://dl.acm.org/doi/10.1145/2666310.2666400)] (empirical; emmm; sequential; POI)
+- A hybrid of sequential rules and collaborative filtering for product recommendation. (Information Science, 2009) [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0020025509002503)] (empirical; novel; sequential; KNN)
+- Learning and adaptivity in interactive recommender systems. (2007) [[paper](http://dl.acm.org/citation.cfm?doid=1282100.1282114)] (empirical; novel; sequential; RL)
+- Clustering approach for hybrid recommender system. (2003) [[paper](http://ieeexplore.ieee.org/document/1241167/)] (empirical; emmm; sequential; cluster)
+- Recommendation as a Stohastic Sequential Decision Problem. (2003) (empirical; novel; sequential; RL)
+- Using sequential and non-sequential patterns in predictive Web usage mining tasks. (2003) (empirical; emmm; sequential)
+
 
 ## Survey
 

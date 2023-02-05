@@ -11,6 +11,7 @@
 - Exploring Memorization in Adversarial Training. (ICLR, 2022) [[paper](http://arxiv.org/abs/2106.01606)] [[code](https://github.com/dongyp13/memorization-AT)]
 - Towards the Memorization Effect of Neural Networks in Adversarial Training. (ICLR, 2022) [[paper](http://arxiv.org/abs/2106.04794)] [[code](https://anonymous.4open.science/r/benign-adv-77C5)]
 - DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks. (ICLR, 2022) [[paper](http://arxiv.org/abs/2108.12805)] [[code](https://github.com/nishiwen1214/DropAttack)]
+- Adversarial Robustness through Disentangled Representations. (AAAI, 2021) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16424#:~:text=For%20achieving%20adversarial%20robustness%2C%20the%20robust%20representations%20of,can%20bridge%20the%20gap%20between%20accuracy%20and%20robustness.)]
 - Fixing Data Augmentation to Improve Adversarial Robustness. (2021) [[paper](https://arxiv.org/abs/2103.01946?msclkid=655be8b5b19111ec99add64c2edadd77)]
 - Bag of Tricks for Adversarial Training. (ICLR, 2021) [[paper](http://arxiv.org/abs/2010.00467)] [[code](https://github.com/P2333/Bag-of-Tricks-for-AT?msclkid=c5080f60b19311eca2e42624e9ecec78)]
 - Helper-Based Adversarial Training: Reducing Excessive Margin to Achieve a Better Accuracy vs. Robustness Trade-Off. (ICML, 2021) [[paper](https://openreview.net/pdf?id=BuD2LmNaU3a)] [[code](https://github.com/imrahulr/hat)]
@@ -38,9 +39,9 @@
 
 检测方法大抵通过给定阈值判断可靠性.
 
-
 - Adversarial Training with Rectified Rejection. (CVPR, 2022) [[paper](https://arxiv.org/pdf/2105.14785.pdf)] [[code](https://github.com/P2333/Rectified-Rejection)]
 - Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks. (ICML, 2020) [[paper](http://arxiv.org/abs/1910.06259)] [[code](https://github.com/davidstutz/confidence-calibrated-adversarial-training)]
+- A Self-supervised Approach for Adversarial Robustness. (CVPR, 2020) [[paper](https://ieeexplore.ieee.org/document/9156294/)]
 - Energy-Based Out-of-Distribution Detection. (NIPS, 2020) [[paper](https://arxiv.org/abs/2010.03759v4)]
 - ATRO: Adversarial Training with A Rejection Option. (2020) [[paper](https://arxiv.org/abs/2010.12905#:~:text=Adversarial%20training%20is%20one%20of%20them%2C%20which%20trains,of%20Adversarial%20Training%20with%20a%20Rejection%20Option%20%28ATRO%29.)]
 - Playing It Safe: Adversarial Robustness with An Abstain Option. (2019) [[paper](https://arxiv.org/abs/1911.11253)] [[code](https://github.com/cassidylaidlaw/playing-it-safe)]
