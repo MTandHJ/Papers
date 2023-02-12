@@ -62,6 +62,7 @@
 
 ## ODE
 
+- Competitive Physics Informed Networks. (ICLR, 2022, workshop) [[paper](https://arxiv.org/pdf/2204.11144.pdf)]
 - Neural Ordinary Differential Equations. (NIPS, 2018) [[paper](http://arxiv.org/abs/1806.07366)]
 
 ## Prompt

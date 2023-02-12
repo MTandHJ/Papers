@@ -137,6 +137,11 @@
 
 ## Sequential
 
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer. (ICKM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3357384.3357895)] (empirical; emmm; BERT4Rec; sequential; BERT)
+- Session-based Recommendation with Graph Neural Networks. (AAAI, 2019) [[paper](http://arxiv.org/abs/1811.00855)] (empirical; emmm; SR-GNN; sequential; session; GRU)
+- Neural Attentive Session-based Recommendation. (CIKM, 2017) [[paper](http://arxiv.org/abs/1711.04725)] (empirical; emmm; NARM; sequential; session; GRU)
+- Session-based Recommendations with Recurrent Neural Networks. (ICLR, 2016) [[paper](http://arxiv.org/abs/1511.06939)] (empirical; novel; seminal; sequential; session; GRU)
+- A Dynamic Recurrent Model for Next Basket Recommendation. (SIGIR, 2016) [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)] (empirical; novel; sequential; next-basket)
 - Learning Hierarchical Representation Model for NextBasket Recommendation. (SIGIR, 2015) [[paper](https://dl.acm.org/doi/10.1145/2766462.2767694)] (empirical; novel; sequential; hybrid; HRM)
 - LORE: exploiting sequential influence for location recommendations. (SIGSPATIAL, 2014) [[paper](https://dl.acm.org/doi/10.1145/2666310.2666400)] (empirical; emmm; sequential; POI)
 - A hybrid of sequential rules and collaborative filtering for product recommendation. (Information Science, 2009) [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0020025509002503)] (empirical; novel; sequential; KNN)
