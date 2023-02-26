@@ -90,6 +90,8 @@
 
 ## Theory
 
+- When AUC meets DRO: Optimizing Partial AUC for Deep Learning with Non-Convex Convergence Guarantee. (ICML, 2022) [[paper](http://arxiv.org/abs/2203.00176)] (theory; wow; DRO; AUC)
+- Learning Models with Uniform Performance via Distributionally Robust Optimization. (Statistics, 2021) [[paper](http://arxiv.org/abs/1810.08750)] (theory; wow; seminal; DRO; robust)
 - What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation. (NIPS, 2020) [[paper](https://arxiv.org/abs/2008.03703)]
 - Does Learning Require Memorization? A Short Tale about a Long Tail. (2020) [[paper](http://arxiv.org/abs/1906.05271)]
 - **Adversarial Examples Are Not Bugs, They Are Features.** (NIPS, 2019) [[paper](https://arxiv.org/pdf/1905.02175.pdf)]

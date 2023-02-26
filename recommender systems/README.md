@@ -139,6 +139,7 @@
 
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer. (ICKM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3357384.3357895)] (empirical; emmm; BERT4Rec; sequential; BERT)
 - Session-based Recommendation with Graph Neural Networks. (AAAI, 2019) [[paper](http://arxiv.org/abs/1811.00855)] (empirical; emmm; SR-GNN; sequential; session; GRU)
+- Self-Attentive Sequential Recommendation. (ICDM, 2018) [[paper](http://arxiv.org/abs/1808.09781)] (empirical; emmm; SASRec; sequential; transformer) [[code](http://arxiv.org/abs/1808.09781)] [[code-pytorch](https://github.com/pmixer/SASRec.pytorch)]
 - Neural Attentive Session-based Recommendation. (CIKM, 2017) [[paper](http://arxiv.org/abs/1711.04725)] (empirical; emmm; NARM; sequential; session; GRU)
 - Session-based Recommendations with Recurrent Neural Networks. (ICLR, 2016) [[paper](http://arxiv.org/abs/1511.06939)] (empirical; novel; seminal; sequential; session; GRU)
 - A Dynamic Recurrent Model for Next Basket Recommendation. (SIGIR, 2016) [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)] (empirical; novel; sequential; next-basket)
@@ -168,6 +169,7 @@
 - Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever. (NIPS, 2022) [[paper](http://arxiv.org/abs/2205.14859)] (importance sampling; theoretical; novel)
 - Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction. (KDD, 2022) [[paper](http://arxiv.org/abs/2112.11136)] (novel; theoretical; E&E; adversarial)
 - Improving Location Recommendation with Urban Knowledge Graph. (KDD, 2022) [[paper](http://arxiv.org/abs/2111.01013)] (POI; graph; casual inference)
+- Learning Recommenders for Implicit Feedback with Importance Resampling. (WWW, 2022) [[paper](https://dl.acm.org/doi/10.1145/3485447.3512075)] [[code](https://github.com/HERECJ/AdaSIR)] (novel; theoretical; importance sampling; negative)
 - DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531967)] [[code](https://github.com/cjx96/DisenCDR)] (跨域训练, 互信息)
 - Explainable Recommendation with Comparative Constraints on Product Aspects. (WSDM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3437963.3441754)] (可解释性)
 - Personalized Ranking with Importance Sampling. (WWW, 2020) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380187)] (importance sampling; theoretical; novel)
