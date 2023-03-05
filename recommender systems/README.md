@@ -84,6 +84,8 @@
 
 ## Graph
 
+- Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution. (ICLR, 2023) [[paper](http://arxiv.org/abs/2302.03933)] [[code](https://github.com/cchao0116/GSIMC-ICLR2023)] (emmm; theoretical; graph; spectral; frequency)
+- Robust Preference-Guided Denoising for Graph based Social Recommendation. (WWW, 2023) [[code](https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec)] (emmm; empirical; denoising; social; graph)
 - Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.13764)] [[code](https://github.com/ruizhang-ai/HIRS_Hypergraph_Infomax_Recommender_System.git)] (novel; empirical; graph; hypergraph; GNN; interactions)
 - ITSM-GCN: Informative Training Sample Mining for Graph Convolutional Network-based Collaborative Filtering. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557368)] (novel; empirical; sampling; graph; GNN)
 - Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering. (SIGIR, 2022) [[paper](https://dl.acm.org/doi/10.1145/3477495.3531889)] (novel; empirical; denosing; graph; GNN)
@@ -159,6 +161,8 @@
 
 ## Other
 
+- Personalized Graph Signal Processing for Collaborative Filtering. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.02113)] (emmm; empirical; graph; spectral)
+- On the Theories Behind Hard Negative Sampling for Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.03472)] [[code](https://github.com/swt-user/WWW_2023_code)] (novel; theoretical; seminal; negative sampling; DRO; AUC)
 - CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.00242)] (emmm; empirical; graph; contrastive learning; bundle)
 - Evolutionary Preference Learning via Graph Nested GRU ODE for Session-based Recommendation. (CIKM, 2022) [[paper](https://dl.acm.org/doi/10.1145/3511808.3557314)] (emmm; empirical; graph; ODE; sequential)
 - Multi-Behavior Dynamic Contrastive Learning for Recommendation. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=ykOpK9O5qYv)] (emmm; empirical; contrastive learning; behavior)

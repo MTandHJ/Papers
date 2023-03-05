@@ -14,6 +14,8 @@
 ## Diffusion
 
 
+- Perception Prioritized Training of Diffusion Models. (CVPR, 2022) [[paper](http://arxiv.org/abs/2204.00227)] [[code](https://github.com/jychoi118/P2-weighting)] (emmm; empirical; diffusion; re-weighting)
+- DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models. (ICLR, 2023) [[paper](http://arxiv.org/abs/2210.08933)] [[code](https://github.com/Shark-NLP/DiffuSeq)] (novel; empirical; seminial; seq2seq; diffusion)
 - Understanding Diffusion Models: A Unified Perspective. (2022) [[paper]]](http://arxiv.org/abs/2208.11970) (novel; seminal; wow; diffusion)
 - Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding. (2022) [[paper]](http://arxiv.org/abs/2205.11487)  (novel; empirical; conditional; seminal; diffusion)
 - Zero-Shot Text-to-Image Generation. (ICML, 2021) [[paper](http://arxiv.org/abs/2102.12092)] (novel; empirical; zero-shot; generative model)
