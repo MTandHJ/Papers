@@ -10,6 +10,7 @@
 
 ## Graph
 
+- Neural Link Prediction with Walk Pooling. (2022) [[paper](https://arxiv.org/abs/2110.04375#:~:text=We%20propose%20a%20link%20prediction%20algorithm%20based%20on,link%20by%20random%20walk%20probabilities%20of%20adjacent%20paths.)] [[code](https://github.com/DaDaCheng/WalkPooling)] (novel; empirical; graph; link prediction; subgraph)
 - GREAD: Graph Neural Reaction-Diffusion Equations. (2022) [[paper](https://arxiv-export1.library.cornell.edu/abs/2211.14208)] (novel; empirical; GNN; graph; over-smoothing; diffusion; ODE)
 - How Powerful is Implicit Denoising in Graph Neural Networks. (2022) [[paper](http://arxiv.org/abs/2209.14514)] (novel; wow; theoretical; graph; GNN; denoising)
 - SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.12689)] (novel; theoretical; graph; GNN; smoothing)
@@ -40,9 +41,11 @@
 - How Powerful are Graph Neural Networks? (ICLR, 2019) [[paper](http://arxiv.org/abs/1810.00826)] [[code](https://github.com/weihua916/powerful-gnns)] (wow; seminal; theoretical; graph; WL-Test)
 - Predict then Propagate: Graph Neural Networks meet Personalized PageRank. (2019) [[paper](http://arxiv.org/abs/1810.05997)] (random walk; PageRank)
 - Embedding Temporal Network via Neighborhood Formation. (KDD, 2018) [[paper](https://dl.acm.org/doi/10.1145/3219819.3220054)] (empirical; novel; Hawkes Process; graph; dynamic)
+- Link Prediction Based on Graph Neural Networks. (NIPS, 2018) [[paper](https://arxiv.org/abs/1802.09691)] [[code](https://github.com/muhanzhang/SEAL)] (emmm; theoretical; graph; subgrpah; link prediciton)
 - Graph Attention Networks. (ICLR, 2018) [[paper](http://arxiv.org/abs/1710.10903)] [[code](https://github.com/PetarV-/GAT)] (novel; seminal; empirical; graph; attention)
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning. (AAAI, 2018) [[paper](http://arxiv.org/abs/1801.07606)] (讲了之前 GCN 的弊端, normalzied Laplacian 矩阵 特征值:[-1, 1])
 - Dynamic Network Embedding by Modeling Triadic Closure Process. (AAAI, 2018) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11257)] [[code](https://github.com/luckiezhou/DynamicTriad)] (emmm; graph; dynamic; empirical)
+- Weisfeiler-Lehman Neural Machine for Link Prediction. (KDD, 2017) [[paper](https://dl.acm.org/doi/10.1145/3097983.3097996)] [[code](https://github.com/muhanzhang/LinkPrediction)] (wow; seminal; theoretical; subgraph; graph; link prediction; WL-test)
 - Neural Message Passing for Quantum Chemistry. (ICML, 2017) [[paper](https://arxiv.org/abs/1704.01212)] (seminal; MPNN; GNN; novel; empirical; graph)
 - Inductive Representation Learning on Large Graphs. (NIPS, 2017) [[paper](http://arxiv.org/abs/1706.02216)] [[code](https://www.cnblogs.com/MTandHJ/p/16642400.html)] (random walk; no embeddings)
 - Semi-Supervised Classification with Graph Convolutional Networks. (ICLR, 2017) [[paper](http://arxiv.org/abs/1609.02907)] [[code](https://github.com/tkipf/gcn)] (GCN, seminal)

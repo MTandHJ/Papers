@@ -57,6 +57,7 @@
 
 ## Explainability
 
+- Estimating and Penalizing Induced Preference Shifts in Recommender Systems. (ICML, 2022) [[paper](http://arxiv.org/abs/2204.11966)] (novel; empirical; preference)
 - Explainable Recommender with Geometric Information Bottleneck. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=I_IJf5oDRo)] (emmm; empirical; explainability; graph; mutual information)
 - ProtGNN: Towards Self-Explaining Graph Neural Networks. (AAAI, 2022) [[paper](http://arxiv.org/abs/2112.00911)] (emmm; graph; empirical; explainability; GNN)
 - Causal screening to interpret graph neural networks. (2021) (emmm; empriical; casual; explainability; graph; GNN)
@@ -67,6 +68,10 @@
 ## Cold-start
 
 - Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation. (WSDM, 2021) [[paper](http://arxiv.org/abs/2012.07064)] (emmm; empirical; graph; GNN; pretraining; cold-start)
+
+## Retrieval
+
+- Recommender Forest for Efficient Retrieval. (NIPS, 2022) [[paper](https://openreview.net/pdf?id=Yc4MjP2Mnob)] (emmm; empirical; retrieval)
 
 ## Adversarial Robustness
 
@@ -84,6 +89,7 @@
 
 ## Graph
 
+- LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation. (ICLR, 2023) [[paper](http://arxiv.org/abs/2302.08191)] [[code](https://github.com/HKUDS/LightGCL.git)] (novel; empirical; graph; contrastive learning; SVD)
 - Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution. (ICLR, 2023) [[paper](http://arxiv.org/abs/2302.03933)] [[code](https://github.com/cchao0116/GSIMC-ICLR2023)] (emmm; theoretical; graph; spectral; frequency)
 - Robust Preference-Guided Denoising for Graph based Social Recommendation. (WWW, 2023) [[code](https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec)] (emmm; empirical; denoising; social; graph)
 - Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.13764)] [[code](https://github.com/ruizhang-ai/HIRS_Hypergraph_Infomax_Recommender_System.git)] (novel; empirical; graph; hypergraph; GNN; interactions)
@@ -161,6 +167,10 @@
 
 ## Other
 
+- On the Generalizability and Predictability of Recommender Systems. (NIPS, 2022)[[paper](http://arxiv.org/abs/2206.11886)] (emmm; empirical; meta-learning; algorithm search)
+- Learning from a Learning User for Optimal Recommendations. (ICML, 2022) [[paper](http://arxiv.org/abs/2202.01879)] (novel; theoretical; bandit; user learning)
+- Recognising the importance of preference change: A call for a coordinated multidisciplinary research effort in the age of AI. (AAAI, 2022) [[paper](http://arxiv.org/abs/2203.10525)] (emmm; empirical; preference)
+- Inverse Learning with Extremely Sparse Feedback for Recommendation. (ICLR (rejected), 2023) (emmm; empirical; false-negative)
 - Personalized Graph Signal Processing for Collaborative Filtering. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.02113)] (emmm; empirical; graph; spectral)
 - On the Theories Behind Hard Negative Sampling for Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.03472)] [[code](https://github.com/swt-user/WWW_2023_code)] (novel; theoretical; seminal; negative sampling; DRO; AUC)
 - CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.00242)] (emmm; empirical; graph; contrastive learning; bundle)
