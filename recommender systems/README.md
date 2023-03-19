@@ -48,6 +48,8 @@
 
 - Neural Re-ranking in Multi-stage Recommender Systems: A Review. (arXiv preprint arXiv:2202.06602) [[paper](http://arxiv.org/abs/2202.06602)] [[code](https://github.com/LibRerank-Community/LibRerank)]
 - Rabbit Holes and Taste Distortion: Distribution-Aware Recommendation with Evolving Interests. (WWW, 2021) [[paper](https://people.engr.tamu.edu/caverlee/pubs/WWW21-Final-Publication.pdf)]
+- Practical Diversified Recommendations on YouTube with Determinantal Point Processes. (CIKM, 2018) [[paper](https://dl.acm.org/doi/10.1145/3269206.3272018)] (wow; seminal; empirical; DPP; diversity)
+- The use of MMR, diversity-based reranking for reordering documents and producing summaries. [[paper](https://dl.acm.org/doi/10.1145/290941.291025)] (emmm; empirical; MMR; diversity)
 
 ## Privacy
 
@@ -110,6 +112,7 @@
 - Minimizing Polarization and Disagreement in Social Networks via Link Recommendation. (NIPS, 2021) [[paper](https://papers.nips.cc/paper/2021/file/101951fe7ebe7bd8c77d14f75746b4bc-Paper.pdf)]
 - Disentangled Graph Collaborative Filtering. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2007.01764)] [[code](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)] (novel; empirical; graph; GNN; attention)
 - Deoscillated Graph Collaborative Filtering. (2020) [[paper](http://arxiv.org/abs/2011.02100)] [[code](https://www.cnblogs.com/MTandHJ/p/16841462.html)] (novel; empirical; graph; GNN)
+- Inductive Matrix Completion Based on Graph Neural Networks. (ICLR, 2020) [[paper](http://arxiv.org/abs/1904.12058)] [[code](https://github.com/muhanzhang/IGMC)] (emmm; empirical; graph; subgraph; inductive; link prediction)
 - Learning to Hash with Graph Neural Networks for Recommender Systems. (WWW, 2020) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380266)] (emmm; empirical; graph; GNN; hash; recall)
 - Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications. (ICDE, 2020) [[paper](https://ieeexplore.ieee.org/document/9101846/)] (novel; empirical; sampling; large-scale)
 - LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2002.02126)] [[PyTorch](https://github.com/gusye1234/LightGCN-PyTorch)] [[TensorFlow](https://github.com/kuandeng/LightGCN)]

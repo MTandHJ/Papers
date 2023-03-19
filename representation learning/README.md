@@ -10,6 +10,7 @@
 
 ## Graph
 
+- Rethinking the Expressive Power of GNNs via Graph Biconnectivity. (ICLR, 2023) [[paper](http://arxiv.org/abs/2301.09505)] [[code](https://github.com/lsj2408/Graphormer-GD)] (novel; seminal; theoretical; graph; WL)
 - Neural Link Prediction with Walk Pooling. (2022) [[paper](https://arxiv.org/abs/2110.04375#:~:text=We%20propose%20a%20link%20prediction%20algorithm%20based%20on,link%20by%20random%20walk%20probabilities%20of%20adjacent%20paths.)] [[code](https://github.com/DaDaCheng/WalkPooling)] (novel; empirical; graph; link prediction; subgraph)
 - GREAD: Graph Neural Reaction-Diffusion Equations. (2022) [[paper](https://arxiv-export1.library.cornell.edu/abs/2211.14208)] (novel; empirical; GNN; graph; over-smoothing; diffusion; ODE)
 - How Powerful is Implicit Denoising in Graph Neural Networks. (2022) [[paper](http://arxiv.org/abs/2209.14514)] (novel; wow; theoretical; graph; GNN; denoising)
@@ -41,6 +42,7 @@
 - How Powerful are Graph Neural Networks? (ICLR, 2019) [[paper](http://arxiv.org/abs/1810.00826)] [[code](https://github.com/weihua916/powerful-gnns)] (wow; seminal; theoretical; graph; WL-Test)
 - Predict then Propagate: Graph Neural Networks meet Personalized PageRank. (2019) [[paper](http://arxiv.org/abs/1810.05997)] (random walk; PageRank)
 - Embedding Temporal Network via Neighborhood Formation. (KDD, 2018) [[paper](https://dl.acm.org/doi/10.1145/3219819.3220054)] (empirical; novel; Hawkes Process; graph; dynamic)
+- Beyond Link Prediction: Predicting Hyperlinks in Adjacency Space. (AAAI, 2018) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11780)] [[code](https://github.com/muhanzhang/HyperLinkPrediction)] (novel; theoretical; hyperlink; EM)
 - Link Prediction Based on Graph Neural Networks. (NIPS, 2018) [[paper](https://arxiv.org/abs/1802.09691)] [[code](https://github.com/muhanzhang/SEAL)] (emmm; theoretical; graph; subgrpah; link prediciton)
 - Graph Attention Networks. (ICLR, 2018) [[paper](http://arxiv.org/abs/1710.10903)] [[code](https://github.com/PetarV-/GAT)] (novel; seminal; empirical; graph; attention)
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning. (AAAI, 2018) [[paper](http://arxiv.org/abs/1801.07606)] (讲了之前 GCN 的弊端, normalzied Laplacian 矩阵 特征值:[-1, 1])
