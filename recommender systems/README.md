@@ -46,9 +46,16 @@
 
 ## Diversity
 
+
+- A Survey of Diversification Techniques in Search and Recommendation. (arXiv, 2022) [[paper](http://arxiv.org/abs/2212.14464)] (novel; survey; diversity; metrics)
 - Neural Re-ranking in Multi-stage Recommender Systems: A Review. (arXiv preprint arXiv:2202.06602) [[paper](http://arxiv.org/abs/2202.06602)] [[code](https://github.com/LibRerank-Community/LibRerank)]
 - Rabbit Holes and Taste Distortion: Distribution-Aware Recommendation with Evolving Interests. (WWW, 2021) [[paper](https://people.engr.tamu.edu/caverlee/pubs/WWW21-Final-Publication.pdf)]
+- Measuring the diversity of recommendations: a preference-aware approach for evaluating and adjusting diversity. (Knowledge and Information Systems, 2020) [[paper](http://link.springer.com/10.1007/s10115-019-01371-0)] (novel; empirical; diversity; metrics)
 - Practical Diversified Recommendations on YouTube with Determinantal Point Processes. (CIKM, 2018) [[paper](https://dl.acm.org/doi/10.1145/3269206.3272018)] (wow; seminal; empirical; DPP; diversity)
+- Intent-based diversification of web search results: metrics and algorithms. (2011) [[paper](http://link.springer.com/10.1007/s10791-011-9167-7)] ()
+- Novelty and diversity in information retrieval evaluation. (SIGIR, 2008) [[paper](https://dl.acm.org/doi/10.1145/1390334.1390446)] (novel; seminal; empirical; alpha-NDCG; diversity)
+- Avoiding monotony: improving the diversity of recommendation lists. (RecSys, 2008) [[paper](https://dl.acm.org/doi/10.1145/1454008.1454030)] (emmm; empirical; ILD; metrics; diversity)
+- Improving recommendation lists through topic diversification. (WWW, 2005) [[paper](http://portal.acm.org/citation.cfm?doid=1060745.1060754)] (emmm; empirical; ILS; metrics; diversity)
 - The use of MMR, diversity-based reranking for reordering documents and producing summaries. [[paper](https://dl.acm.org/doi/10.1145/290941.291025)] (emmm; empirical; MMR; diversity)
 
 ## Privacy
