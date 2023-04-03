@@ -14,7 +14,9 @@
 ## Diffusion
 
 
+- Diffusion Models for Non-autoregressive Text Generation: A Survey. (2023) [[paper](http://arxiv.org/abs/2303.06574)] (emmm; survey; diffusion; NLP)
 - Adding Conditional Control to Text-to-Image Diffusion Models. (2023) [[paper](http://arxiv.org/abs/2302.05543)] [[code](https://github.com/lllyasviel/ControlNet)] (novel; empirical; ControlNet; diffusion; zero-convolution)
+- Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation. (2022) [[paper](http://arxiv.org/abs/2212.09412)] (novel; empirical; Difformer; diffusion; NLP)
 - High-Resolution Image Synthesis with Latent Diffusion Models. (CVPR, 2022) [[paper](http://arxiv.org/abs/2112.10752)] [[code](https://github.com/CompVis/latent-diffusion)] (novel; empirical; diffusion; latent space; cross-attention)
 - Perception Prioritized Training of Diffusion Models. (CVPR, 2022) [[paper](http://arxiv.org/abs/2204.00227)] [[code](https://github.com/jychoi118/P2-weighting)] (emmm; empirical; diffusion; re-weighting)
 - DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models. (ICLR, 2023) [[paper](http://arxiv.org/abs/2210.08933)] [[code](https://github.com/Shark-NLP/DiffuSeq)] (novel; empirical; seminial; seq2seq; diffusion)

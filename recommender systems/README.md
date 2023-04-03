@@ -6,6 +6,8 @@
 
 ## Fairness
 
+- Uncertainty Quantification for Fairness in Two-Stage Recommender Systems. (WWW, 2023) [[paper](https://dl.acm.org/doi/10.1145/3539597.3570469)] (emmm; theoretical; fairness; IPW)
+- Improving Recommendation Fairness via Data Augmentation. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.06333)] [[code](https://github.com/newlei/FDA)] (emmm; empirical; fake; generative; fairness)
 - TDR-CL: Targeted Doubly Robust Collaborative Learning for Debiased Recommendations. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=EIgLnNx_lC)] (novel; theoretical; doubly robust; selection bias)
 - Communication Efficient Fair Federated Recommender System. (ICLR, 2023, under review) [[paper](https://openreview.net/forum?id=ZLv-8v0Sp_H)] (emmm; empirical; fairness; federated learning)
 - Rank List Sensitivity of Recommender Systems to Interaction Perturbations. (CIKM) [[paper](http://arxiv.org/abs/2201.12686)]
@@ -73,6 +75,10 @@
 - XGNN: Towards Model-Level Explanations of Graph Neural Networks. (KDD, 2020) [[paper](http://arxiv.org/abs/2006.02587)] (emmm; graph; empirical; RL; explainability; GNN; model-level; graph-level)
 - GNNExplainer: Generating Explanations for Graph Neural Networks. (NIPS, 2019) [[paper](http://arxiv.org/abs/1903.03894)] [[code](https://github.com/RexYing/gnn-model-explainer)] (emmm; empirical; graph; GNN; post hoc; explainability)
 - Explainability Methods for Graph Convolutional Neural Networks. (CVPR, 2019) [[paper](https://ieeexplore.ieee.org/document/8954227/)] (emmmm; empirical; CAM; EB; graph; GNN; explainability)
+
+## Controllability
+
+- Divide and Conquer: Towards Better Embedding-based Retrieval for Recommender Systems From a Multi-task Perspective. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.02657)] (wow; empirical; short paper; controable; diversity; cluster)
 
 ## Cold-start
 
@@ -155,8 +161,10 @@
 
 ## Sequential
 
+- Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation. (WWW, 2021) [[paper](http://arxiv.org/abs/2103.10693)] (emmm; empirical; sequential; VAE)
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer. (ICKM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3357384.3357895)] (empirical; emmm; BERT4Rec; sequential; BERT)
 - Session-based Recommendation with Graph Neural Networks. (AAAI, 2019) [[paper](http://arxiv.org/abs/1811.00855)] (empirical; emmm; SR-GNN; sequential; session; GRU)
+- Sequential Variational Autoencoders for Collaborative Filtering. (WSDM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3289600.3291007)] (emmm; empirical; VAE)
 - Self-Attentive Sequential Recommendation. (ICDM, 2018) [[paper](http://arxiv.org/abs/1808.09781)] (empirical; emmm; SASRec; sequential; transformer) [[code](http://arxiv.org/abs/1808.09781)] [[code-pytorch](https://github.com/pmixer/SASRec.pytorch)]
 - Neural Attentive Session-based Recommendation. (CIKM, 2017) [[paper](http://arxiv.org/abs/1711.04725)] (empirical; emmm; NARM; sequential; session; GRU)
 - Session-based Recommendations with Recurrent Neural Networks. (ICLR, 2016) [[paper](http://arxiv.org/abs/1511.06939)] (empirical; novel; seminal; sequential; session; GRU)
@@ -177,6 +185,8 @@
 
 ## Other
 
+- Bootstrap Latent Representations for Multi-modal Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2207.05969)] (emmm; empirical; multi-modal; stop gradient)
+- Disentangled Causal Embedding With Contrastive Learning For Recommender System. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.03248)] (emmm; empirical; casual embedding; contrastive learning)
 - On the Generalizability and Predictability of Recommender Systems. (NIPS, 2022)[[paper](http://arxiv.org/abs/2206.11886)] (emmm; empirical; meta-learning; algorithm search)
 - Learning from a Learning User for Optimal Recommendations. (ICML, 2022) [[paper](http://arxiv.org/abs/2202.01879)] (novel; theoretical; bandit; user learning)
 - Recognising the importance of preference change: A call for a coordinated multidisciplinary research effort in the age of AI. (AAAI, 2022) [[paper](http://arxiv.org/abs/2203.10525)] (emmm; empirical; preference)
@@ -198,6 +208,7 @@
 - Explainable Recommendation with Comparative Constraints on Product Aspects. (WSDM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3437963.3441754)] (可解释性)
 - Personalized Ranking with Importance Sampling. (WWW, 2020) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380187)] (importance sampling; theoretical; novel)
 - Sampling-bias-corrected neural modeling for large corpus item recommendations. (RecSys, 2019) [[paper](https://dl.acm.org/doi/10.1145/3298689.3346996)] (novel; empirical; bias; importance sampling)
+- Variational Autoencoders for Collaborative Filtering. (WWW, 2018) [[paper](http://arxiv.org/abs/1802.05814)] (emmm; empirical; VAE)
 - Adaptive Sampled Softmax with Kernel Based Sampling. (ICML, 2018) [[paper](http://arxiv.org/abs/1712.00527)] (importance sampling; theoretical; novel)
 - Putting Users in Control of their Recommendations. (RecSys, 2015) [[paper](https://dl.acm.org/doi/10.1145/2792838.2800179)] (交互, 用户可控)
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. (SIGIR, 2013) [[paper](https://dl.acm.org/doi/10.1145/2484028.2484126)] (novel; empirical; negative sampling)

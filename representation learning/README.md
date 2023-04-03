@@ -62,6 +62,7 @@
 
 ## Sparsity
 
+- SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models. (2023) [[paper](https://arxiv.org/abs/2211.10438)] [[code](https://github.com/mit-han-lab/smoothquant)] (novel; wow; empirical; quantization)
 - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. (ICLR, 2019) [[paper](http://arxiv.org/abs/1803.03635)] (seminal; pruning)
 
 
