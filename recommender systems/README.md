@@ -104,7 +104,8 @@
 
 ## Graph
 
-- LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation. (ICLR, 2023) [[paper](http://arxiv.org/abs/2302.08191)] [[code](https://github.com/HKUDS/LightGCL.git)] (novel; empirical; graph; contrastive learning; SVD)
+- Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2207.05959)] [[code](https://github.com/Joinn99/FPSR)] (emmm; empirical; SVD; s)
+- LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation. (ICLR, 2023) [[paper](http://arxiv.org/abs/2302.08191)] [[code](https://github.com/HKUDS/LightGCL.git)] (novel; empirical; graph; contrastive learning; SVD; spectral)
 - Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution. (ICLR, 2023) [[paper](http://arxiv.org/abs/2302.03933)] [[code](https://github.com/cchao0116/GSIMC-ICLR2023)] (emmm; theoretical; graph; spectral; frequency)
 - Robust Preference-Guided Denoising for Graph based Social Recommendation. (WWW, 2023) [[code](https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec)] (emmm; empirical; denoising; social; graph)
 - Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems. (KDD, 2022) [[paper](http://arxiv.org/abs/2206.13764)] [[code](https://github.com/ruizhang-ai/HIRS_Hypergraph_Infomax_Recommender_System.git)] (novel; empirical; graph; hypergraph; GNN; interactions)
@@ -161,11 +162,13 @@
 
 ## Sequential
 
+- Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2301.12197)] [[code](https://github.com/zfan20/MStein)] (emmm; empirical; contrastive learning; sequential; Wasserstein)
+- Sequential Recommendation via Stochastic Self-Attention. (WWW, 2022) [[paper](http://arxiv.org/abs/2201.06035)] [[code](https://github.com/zfan20/STOSA)] (novel; empirical; sequential; attention; Wasserstein )
 - Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation. (WWW, 2021) [[paper](http://arxiv.org/abs/2103.10693)] (emmm; empirical; sequential; VAE)
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer. (ICKM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3357384.3357895)] (empirical; emmm; BERT4Rec; sequential; BERT)
 - Session-based Recommendation with Graph Neural Networks. (AAAI, 2019) [[paper](http://arxiv.org/abs/1811.00855)] (empirical; emmm; SR-GNN; sequential; session; GRU)
 - Sequential Variational Autoencoders for Collaborative Filtering. (WSDM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3289600.3291007)] (emmm; empirical; VAE)
-- Self-Attentive Sequential Recommendation. (ICDM, 2018) [[paper](http://arxiv.org/abs/1808.09781)] (empirical; emmm; SASRec; sequential; transformer) [[code](http://arxiv.org/abs/1808.09781)] [[code-pytorch](https://github.com/pmixer/SASRec.pytorch)]
+- Self-Attentive Sequential Recommendation. (ICDM, 2018) [[paper](http://arxiv.org/abs/1808.09781)] (empirical; emmm; SASRec; sequential; transformer) [[code](https://github.com/kang205/SASRec)] [[code-pytorch](https://github.com/pmixer/SASRec.pytorch)]
 - Neural Attentive Session-based Recommendation. (CIKM, 2017) [[paper](http://arxiv.org/abs/1711.04725)] (empirical; emmm; NARM; sequential; session; GRU)
 - Session-based Recommendations with Recurrent Neural Networks. (ICLR, 2016) [[paper](http://arxiv.org/abs/1511.06939)] (empirical; novel; seminal; sequential; session; GRU)
 - A Dynamic Recurrent Model for Next Basket Recommendation. (SIGIR, 2016) [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)] (empirical; novel; sequential; next-basket)

@@ -10,6 +10,8 @@
 
 ## Graph
 
+- Measuring the predictive heterogeneity. (ICLR, 2023) [[paper](https://arxiv.org/pdf/2304.00305.pdf)] (emmm; theoretical; MI; entropy; predictive heterogeneity)
+- Graph Neural Networks for Link Prediction with Subgraph Sketching. (ICLR, 2023) [[paper](http://arxiv.org/abs/2209.15486)] (novel; theoretical; graph; subgraph; link prediction; WL)
 - Rethinking the Expressive Power of GNNs via Graph Biconnectivity. (ICLR, 2023) [[paper](http://arxiv.org/abs/2301.09505)] [[code](https://github.com/lsj2408/Graphormer-GD)] (novel; seminal; theoretical; graph; WL)
 - Neural Link Prediction with Walk Pooling. (2022) [[paper](https://arxiv.org/abs/2110.04375#:~:text=We%20propose%20a%20link%20prediction%20algorithm%20based%20on,link%20by%20random%20walk%20probabilities%20of%20adjacent%20paths.)] [[code](https://github.com/DaDaCheng/WalkPooling)] (novel; empirical; graph; link prediction; subgraph)
 - GREAD: Graph Neural Reaction-Diffusion Equations. (2022) [[paper](https://arxiv-export1.library.cornell.edu/abs/2211.14208)] (novel; empirical; GNN; graph; over-smoothing; diffusion; ODE)
@@ -32,6 +34,7 @@
 - Dissecting the Diffusion Process in Linear Graph Convolutional Networks. (NIPS, 2021) [[paper](http://arxiv.org/abs/2102.10739)] (novel; theoretical; graph; GNN; diffusion; over-smoothing)
 - On the Bottleneck of Graph Neural Networks and Its Practical Implications. (ICLR, 2021) [[paper](https://arxiv.org/abs/2006.05205)] [[code](https://github.com/tech-srl/bottleneck/)] (novel; empirical; graph; GNN; over-squashing)
 - A Unified View on Graph Neural Networks as Graph Signal Denoising. (CIKM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482225)] [[code](https://github.com/alge24/ADA-UGNN)] (seminal; novel; theoretical; graph; GNN; denoising)
+- A Theory of Usable Information Under Computational Constraints. (ICLR, 2020) [[paper](http://arxiv.org/abs/2002.10689)] (wow; seminal; entropy; MI)
 - Graph Neural Networks Exponentially Lose Expressive Power for Node Classification. (ICLR, 2020) [[paper](http://arxiv.org/abs/1905.10947)] (novel; theory; graph; GNN; over-smoothing)
 - Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs. (NIPS, 2020) [[paper](https://arxiv.org/abs/2006.11468)] [[code](https://github.com/GemsLab/H2GCN)] (novel; theoretical; graph; GNN)
 - Simple and Deep Graph Convolutional Networks. (ICML, 2020) [[paper](http://arxiv.org/abs/2007.02133)] [[code](https://github.com/chennnM/GCNII)] (novel; theoretical; graph; GNN; over-smoothing)
