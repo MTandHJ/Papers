@@ -44,8 +44,12 @@
 - Simplifying Graph Convolutional Networks. (ICML, 2019) [[paper](Simplifying Graph Convolutional Networks)] [[code](https://github.com/Tiiiger/SGC)] (graph; novel; GNN; empirical; SGC)
 - How Powerful are Graph Neural Networks? (ICLR, 2019) [[paper](http://arxiv.org/abs/1810.00826)] [[code](https://github.com/weihua916/powerful-gnns)] (wow; seminal; theoretical; graph; WL-Test)
 - Predict then Propagate: Graph Neural Networks meet Personalized PageRank. (2019) [[paper](http://arxiv.org/abs/1810.05997)] (random walk; PageRank)
+- FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. (ICLR, 2018) [[paper](http://arxiv.org/abs/1801.10247)] (novel; wow; seminal; theoretical; graph; importance sampling)
 - Embedding Temporal Network via Neighborhood Formation. (KDD, 2018) [[paper](https://dl.acm.org/doi/10.1145/3219819.3220054)] (empirical; novel; Hawkes Process; graph; dynamic)
 - Beyond Link Prediction: Predicting Hyperlinks in Adjacency Space. (AAAI, 2018) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11780)] [[code](https://github.com/muhanzhang/HyperLinkPrediction)] (novel; theoretical; hyperlink; EM)
+- An End-to-End Deep Learning Architecture for Graph Classification. (AAAI, 2018) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11782)] (emmm; empirical; coloring; GNN; graph; WL)
+- Representation Learning on Graphs with Jumping Knowledge Networks. (ICML, 2018) [[paper](http://proceedings.mlr.press/v80/xu18c/xu18c.pdf)] (GCN; graph; novel; over-smoothing)
+- Stochastic Training of Graph Convolutional Networks with Variance Reduction. (ICML, 2018) [[paper](https://arxiv.org/pdf/1710.10568)] (emmm; empirical; fast; GCN; graph; mini-batch)
 - Link Prediction Based on Graph Neural Networks. (NIPS, 2018) [[paper](https://arxiv.org/abs/1802.09691)] [[code](https://github.com/muhanzhang/SEAL)] (emmm; theoretical; graph; subgrpah; link prediciton)
 - Graph Attention Networks. (ICLR, 2018) [[paper](http://arxiv.org/abs/1710.10903)] [[code](https://github.com/PetarV-/GAT)] (novel; seminal; empirical; graph; attention)
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning. (AAAI, 2018) [[paper](http://arxiv.org/abs/1801.07606)] (讲了之前 GCN 的弊端, normalzied Laplacian 矩阵 特征值:[-1, 1])
@@ -55,8 +59,11 @@
 - Inductive Representation Learning on Large Graphs. (NIPS, 2017) [[paper](http://arxiv.org/abs/1706.02216)] [[code](https://www.cnblogs.com/MTandHJ/p/16642400.html)] (random walk; no embeddings)
 - Semi-Supervised Classification with Graph Convolutional Networks. (ICLR, 2017) [[paper](http://arxiv.org/abs/1609.02907)] [[code](https://github.com/tkipf/gcn)] (GCN, seminal)
 - Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering. (NIPS, 2016) [[paper](https://proceedings.neurips.cc/paper/2016/hash/04df4d434d481c5bb723be1b6df1ee65-Abstract.html)] [[code](https://github.com/mdeff/cnn_graph)] (GCN, 切比雪夫核)
+- Gated Graph Sequence Neural Networks. (ICLR, 2016) [[paper](http://arxiv.org/abs/1511.05493)] (emmm; empirical; graph; GRU)
 - Structural Deep Network Embedding. (KDD, 2016) [[paper](https://dl.acm.org/doi/10.1145/2939672.2939753)]
 - node2vec: Scalable Feature Learning for Networks. (KDD, 2016) [[paper](http://arxiv.org/abs/1607.00653)] [[code](http://snap.stanford.edu/node2vec/)] [[DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/node2vec)] (empirical; seminal; novel; graph)
+- Deep Convolutional Networks on Graph-Structured Data. (2015) [[paper](http://arxiv.org/abs/1506.05163)] (graph)
+- Convolutional Networks on Graphs for Learning Molecular Fingerprints. (NIPS, 2015) [[paper](https://proceedings.neurips.cc/paper/2015/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)] (novel; seminal; graph)
 - Learning with Partially Absorbing Random Walks. (NIPS, 2012) [[paper](https://proceedings.neurips.cc/paper/2012/hash/512c5cad6c37edb98ae91c8a76c3a291-Abstract.html)] (提出一种图聚类方法, 可以和很多现有方法产生联系, 但是这么定义的来源是什么?)
 
 ## VAE

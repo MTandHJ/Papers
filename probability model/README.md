@@ -14,6 +14,7 @@
 ## Diffusion
 
 
+- DiffuRec: A Diffusion Model for Sequential Recommendation. (2023) [[paper](http://arxiv.org/abs/2304.00686)] (novel; empirical; diffusion; Recommender Systems; sequential)
 - Diffusion Models for Non-autoregressive Text Generation: A Survey. (2023) [[paper](http://arxiv.org/abs/2303.06574)] (emmm; survey; diffusion; NLP)
 - Adding Conditional Control to Text-to-Image Diffusion Models. (2023) [[paper](http://arxiv.org/abs/2302.05543)] [[code](https://github.com/lllyasviel/ControlNet)] (novel; empirical; ControlNet; diffusion; zero-convolution)
 - Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation. (2022) [[paper](http://arxiv.org/abs/2212.09412)] (novel; empirical; Difformer; diffusion; NLP)
