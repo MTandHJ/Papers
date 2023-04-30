@@ -162,10 +162,13 @@
 
 ## Sequential
 
+- Conditional Denoising Diffusion for Sequential Recommendation. (arXiv, 2023) [[paper](http://arxiv.org/abs/2304.11433)] (emmm; empirical; diffusion; sequential; contrastive learning)
 - Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2301.12197)] [[code](https://github.com/zfan20/MStein)] (emmm; empirical; contrastive learning; sequential; Wasserstein)
 - Sequential Recommendation via Stochastic Self-Attention. (WWW, 2022) [[paper](http://arxiv.org/abs/2201.06035)] [[code](https://github.com/zfan20/STOSA)] (novel; empirical; sequential; attention; Wasserstein )
 - Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation. (WWW, 2021) [[paper](http://arxiv.org/abs/2103.10693)] (emmm; empirical; sequential; VAE)
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer. (ICKM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3357384.3357895)] (empirical; emmm; BERT4Rec; sequential; BERT)
+- TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2005.02844)] (emmm; empirical; session)
+- Memory Augmented Graph Neural Networks for Sequential Recommendation. (AAAI, 2020) [[paper](http://arxiv.org/abs/1912.11730)] (emmm; empirical; session)
 - Session-based Recommendation with Graph Neural Networks. (AAAI, 2019) [[paper](http://arxiv.org/abs/1811.00855)] (empirical; emmm; SR-GNN; sequential; session; GRU)
 - Sequential Variational Autoencoders for Collaborative Filtering. (WSDM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3289600.3291007)] (emmm; empirical; VAE)
 - Self-Attentive Sequential Recommendation. (ICDM, 2018) [[paper](http://arxiv.org/abs/1808.09781)] (empirical; emmm; SASRec; sequential; transformer) [[code](https://github.com/kang205/SASRec)] [[code-pytorch](https://github.com/pmixer/SASRec.pytorch)]
