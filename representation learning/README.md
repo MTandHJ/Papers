@@ -36,9 +36,13 @@
 - A Unified View on Graph Neural Networks as Graph Signal Denoising. (CIKM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482225)] [[code](https://github.com/alge24/ADA-UGNN)] (seminal; novel; theoretical; graph; GNN; denoising)
 - A Theory of Usable Information Under Computational Constraints. (ICLR, 2020) [[paper](http://arxiv.org/abs/2002.10689)] (wow; seminal; entropy; MI)
 - Graph Neural Networks Exponentially Lose Expressive Power for Node Classification. (ICLR, 2020) [[paper](http://arxiv.org/abs/1905.10947)] (novel; theory; graph; GNN; over-smoothing)
+- Graph Information Bottleneck. (NIPS, 2020) [[paper](http://arxiv.org/abs/2010.12811)] [[code](https://github.com/snap-stanford/GIB)] (emmm; theoretical; graph; mutual information; graph; GNN)
+- Reliable Graph Neural Networks via Robust Aggregation. (NIPS, 2020) [[paper](http://arxiv.org/abs/2010.15651)] (novel; theoretical; graph; GNN; robustness; adversarial)
 - Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs. (NIPS, 2020) [[paper](https://arxiv.org/abs/2006.11468)] [[code](https://github.com/GemsLab/H2GCN)] (novel; theoretical; graph; GNN)
 - Simple and Deep Graph Convolutional Networks. (ICML, 2020) [[paper](http://arxiv.org/abs/2007.02133)] [[code](https://github.com/chennnM/GCNII)] (novel; theoretical; graph; GNN; over-smoothing)
 - DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. (ICLR, 2020) [[paper](http://arxiv.org/abs/1907.10903)] [[code](https://github.com/DropEdge/DropEdge)] (graph; over-smoothing; dropout)
+- Adversarial Attacks on Graph Neural Networks via Meta Learning. (ICLR, 2019) [[paper](https://arxiv.org/abs/1902.08412)] (novel; empirical; graph; adversarial; attacks; meta-learning)
+- Graph Convolutional Networks with EigenPooling. (KDD, 2019) [[paper](https://dl.acm.org/doi/10.1145/3292500.3330982)] [[code](https://github.com/alge24/eigenpooling)] (novel; wow; empirical; spectral; GCN; pooling)
 - Representation Learning for Attributed Multiplex Heterogeneous Network. (KDD, 2019) [[paper](https://dl.acm.org/doi/10.1145/3292500.3330964)] [[code](https://github.com/cenyk1230/GATNE)] (emmm; empirical; heterogeneous; graph; GNN)
 - Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks. (KDD, 2019) [[paper](https://dl.acm.org/doi/10.1145/3292500.3330925)] [[code](https://github.com/google-research/google-research/tree/master/cluster_gcn)] [[PyTorch](https://github.com/benedekrozemberczki/ClusterGCN)] (novel; empirical; fast; mini-batch; sampling; graph; GNN)
 - Invariant and Equivariant Graph Networks. (ICLR, 2019) [[paper](https://arxiv.org/pdf/1812.09902.pdf)] (novel; theoretical; graph; GNN; invariant; equivariant)
@@ -76,6 +80,7 @@
 
 ## VAE
 
+- Controllable Guarantees for Fair Outcomes via Contrastive Information Estimation. (AAAI, 2021) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16931)] (novel; wow; theoretical; mutual information)
 - Deep Variational Information Bottleneck. (ICLR, 2017) [[paper](http://arxiv.org/abs/1612.00410)] (novel; seminal; theoretical; VAE; mutual information)
 
 ## Sparsity
