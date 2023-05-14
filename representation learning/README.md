@@ -80,6 +80,8 @@
 
 ## VAE
 
+- Understanding Dataset Difficulty with $\mathcal{V}$-Usable Information. (ICML, 2022) [[paper](https://proceedings.mlr.press/v162/ethayarajh22a.html)] (novel; empirical; V-information; mutual information)
+- A Bayesian Framework for Information-Theoretic Probing. (2021) [[paper](http://arxiv.org/abs/2109.03853)] (novel; theory; mutual information; Bayesian)
 - Controllable Guarantees for Fair Outcomes via Contrastive Information Estimation. (AAAI, 2021) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16931)] (novel; wow; theoretical; mutual information)
 - Deep Variational Information Bottleneck. (ICLR, 2017) [[paper](http://arxiv.org/abs/1612.00410)] (novel; seminal; theoretical; VAE; mutual information)
 

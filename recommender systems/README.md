@@ -125,6 +125,11 @@
 - How Powerful is Graph Convolution for Recommendation? (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.07567)] [[code](https://github.com/yshenaw/GF_CF)]
 - Minimizing Polarization and Disagreement in Social Networks via Link Recommendation. (NIPS, 2021) [[paper](https://papers.nips.cc/paper/2021/file/101951fe7ebe7bd8c77d14f75746b4bc-Paper.pdf)]
 - Disentangled Graph Collaborative Filtering. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2007.01764)] [[code](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)] (novel; empirical; graph; GNN; attention)
+- Towards Deeper Graph Neural Networks with Differentiable Group Normalization. (arXiv, 2020) [[paper](http://arxiv.org/abs/2006.06972)] (emmm; empirical; graph; GNN; deep; over-smoothing; normalization)
+- DeeperGCN: All You Need to Train Deeper GCNs. (arXiv, 2020) [[paper](http://arxiv.org/abs/2006.07739)] [[code](https://www.deepgcns.org)] (novel; theoretical; graph; GNN; deep; aggregation)
+- GPT-GNN: Generative Pre-Training of Graph Neural Networks. (KDD, 2020) [[paper](http://arxiv.org/abs/2006.15437)] [[code](https://github.com/UCLA-DM/GPT-GNN)] (novel; empirical; graph; GNN; pretraining)
+- Towards Deeper Graph Neural Networks. (KDD, 2020) [[paper](http://arxiv.org/abs/2007.09296)] [[code](https://github.com/divelab/DeeperGNN)] (emmm; empirical; GCN; graph; over-smoothing)
+- Multi-behavior Recommendation with Graph Convolutional Networks. (SIGIR, 2020) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401072)] (novel; empirical; graph; heterogeneous; multi-behavior)
 - Deoscillated Graph Collaborative Filtering. (2020) [[paper](http://arxiv.org/abs/2011.02100)] [[code](https://www.cnblogs.com/MTandHJ/p/16841462.html)] (novel; empirical; graph; GNN)
 - Inductive Matrix Completion Based on Graph Neural Networks. (ICLR, 2020) [[paper](http://arxiv.org/abs/1904.12058)] [[code](https://github.com/muhanzhang/IGMC)] (emmm; empirical; graph; subgraph; inductive; link prediction)
 - Learning to Hash with Graph Neural Networks for Recommender Systems. (WWW, 2020) [[paper](https://dl.acm.org/doi/10.1145/3366423.3380266)] (emmm; empirical; graph; GNN; hash; recall)
@@ -172,6 +177,7 @@
 - Memory Augmented Graph Neural Networks for Sequential Recommendation. (AAAI, 2020) [[paper](http://arxiv.org/abs/1912.11730)] (emmm; empirical; session)
 - Session-based Recommendation with Graph Neural Networks. (AAAI, 2019) [[paper](http://arxiv.org/abs/1811.00855)] (empirical; emmm; SR-GNN; sequential; session; GRU)
 - Sequential Variational Autoencoders for Collaborative Filtering. (WSDM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3289600.3291007)] (emmm; empirical; VAE)
+- Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding. (WSDM, 2018) [[paper](http://arxiv.org/abs/1809.07426)] [[code](https://github.com/graytowne/caser_pytorch)] (seminal; novel; empirical; convolutional; sequential)
 - Self-Attentive Sequential Recommendation. (ICDM, 2018) [[paper](http://arxiv.org/abs/1808.09781)] (empirical; emmm; SASRec; sequential; transformer) [[code](https://github.com/kang205/SASRec)] [[code-pytorch](https://github.com/pmixer/SASRec.pytorch)]
 - Neural Attentive Session-based Recommendation. (CIKM, 2017) [[paper](http://arxiv.org/abs/1711.04725)] (empirical; emmm; NARM; sequential; session; GRU)
 - Session-based Recommendations with Recurrent Neural Networks. (ICLR, 2016) [[paper](http://arxiv.org/abs/1511.06939)] (empirical; novel; seminal; sequential; session; GRU)
