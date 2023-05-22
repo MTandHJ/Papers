@@ -121,6 +121,7 @@
 - Less is More: Reweighting Important Spectral Graph Features for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.11346)] [[code](https://github.com/tanatosuu/GDE)] (关于 over-smoothing 的分析倒是有趣)
 - A Review-aware Graph Contrastive Learning Framework for Recommendation. (SIGIR, 2022) [[paper](http://arxiv.org/abs/2204.12063)]
 - UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation. (CIKM, 2021) [[paper](http://arxiv.org/abs/2110.15114)] [[code](https://github.com/xue-pai/UltraGCN)] (novel; theoretical; over-smoothing; graph; GNN)
+- Self-Supervised Graph Co-Training for Session-based Recommendation. (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.10560)] [[code](https://github.com/xiaxin1998/COTREC.git)] (emmm; empirical; graph; GNN; session)
 - SimpleX: A Simple and Strong Baseline for Collaborative Filtering. (CIKM, 2021) [[paper](http://arxiv.org/abs/2109.12613)] [[code](https://github.com/xue-pai/TwoTowers)] (TwoTowers)
 - How Powerful is Graph Convolution for Recommendation? (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.07567)] [[code](https://github.com/yshenaw/GF_CF)]
 - Minimizing Polarization and Disagreement in Social Networks via Link Recommendation. (NIPS, 2021) [[paper](https://papers.nips.cc/paper/2021/file/101951fe7ebe7bd8c77d14f75746b4bc-Paper.pdf)]
