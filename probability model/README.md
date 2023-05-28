@@ -7,7 +7,8 @@
 
 ## Flow
 
-
+- Graph Normalizing Flows. (NIPS, 2019) [[paper](http://arxiv.org/abs/1905.13177)] (novel; empirical; graph; flow)
+- Density estimation using Real NVP. (ICLR, 2017) [[paper](http://arxiv.org/abs/1605.08803)] (novel; seminal; theoretical; flow)
 - Variational Inference with Normalizing Flow. (ICML, 2015) [[paper]](https://arxiv.org/pdf/1505.05770.pdf) (novel; seminal; wow; VAE; Flow; theory)
 - Improved Variational Inference with Inverse Autoregressive Flow. (NIPS, 2016) [[paper]](https://arxiv.org/abs/1606.04934) (novel; seminal; wow; VAE; Flow; theoretical)
 
@@ -34,4 +35,5 @@
 - Improved Denoising Diffusion Probabilistic Models. (2021) [[paper]](http://arxiv.org/abs/2102.09672) (novel; empirical; diffusion; seminal)
 - Denoising Diffusion Probabilistic Models. (NIPS, 2020) [[paper]](https://arxiv.org/pdf/2006.11239.pdf) (novel; seminal; wow; diffusion; score matching; theoretical)
 - Generative Modeling by Estimating Gradients of the Data Distribution. (NIPS, 2019) [[paper]](http://arxiv.org/abs/1907.05600) (novel; seminal; wow; diffusion; score matching; theoretical)
+- Density estimation using Real NVP. (ICLR, 2017) [[paper](http://arxiv.org/abs/1605.08803)] (novel; seminal; theoretical; flow)
 - Deep Unsupervised Learning Using Nonequilibrium Thermodynamics. (ICML, 2015) [[paper]](http://arxiv.org/abs/2211.09324) (novel; seminal; wow; VAE; theory; diffusion)

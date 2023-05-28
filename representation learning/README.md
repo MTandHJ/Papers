@@ -10,6 +10,7 @@
 
 ## Graph
 
+- Graph Neural Networks without Propagation. (WWW, 2023) [[paper](https://dl.acm.org/doi/10.1145/3543507.3583419)] (emmm; empirical; graph; GNN; low-rank)
 - Measuring the predictive heterogeneity. (ICLR, 2023) [[paper](https://arxiv.org/pdf/2304.00305.pdf)] (emmm; theoretical; MI; entropy; predictive heterogeneity)
 - Graph Neural Networks for Link Prediction with Subgraph Sketching. (ICLR, 2023) [[paper](http://arxiv.org/abs/2209.15486)] (novel; theoretical; graph; subgraph; link prediction; WL)
 - Rethinking the Expressive Power of GNNs via Graph Biconnectivity. (ICLR, 2023) [[paper](http://arxiv.org/abs/2301.09505)] [[code](https://github.com/lsj2408/Graphormer-GD)] (novel; seminal; theoretical; graph; WL)
@@ -40,11 +41,13 @@
 - Pairnorm: tackling oversmoothing in gnns. (ICLR, 2020) [[paper](https://openreview.net/forum?id=rkecl1rtwB)] [[code](https://github.com/LingxiaoShawn/PairNorm)] (emmm; empirical; graph; GCN; normalization; over-smoothing)
 - A Theory of Usable Information Under Computational Constraints. (ICLR, 2020) [[paper](http://arxiv.org/abs/2002.10689)] (wow; seminal; entropy; MI)
 - Graph Neural Networks Exponentially Lose Expressive Power for Node Classification. (ICLR, 2020) [[paper](http://arxiv.org/abs/1905.10947)] (novel; theory; graph; GNN; over-smoothing)
+- Efficient Graph Generation with Graph Recurrent Attention Networks. (NIPS, 2020) [[paper](http://arxiv.org/abs/1910.00760)] (novel; empirical; graph; GRU; GNN)
 - Graph Information Bottleneck. (NIPS, 2020) [[paper](http://arxiv.org/abs/2010.12811)] [[code](https://github.com/snap-stanford/GIB)] (emmm; theoretical; graph; mutual information; graph; GNN)
 - Reliable Graph Neural Networks via Robust Aggregation. (NIPS, 2020) [[paper](http://arxiv.org/abs/2010.15651)] (novel; theoretical; graph; GNN; robustness; adversarial)
 - Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs. (NIPS, 2020) [[paper](https://arxiv.org/abs/2006.11468)] [[code](https://github.com/GemsLab/H2GCN)] (novel; theoretical; graph; GNN)
 - Simple and Deep Graph Convolutional Networks. (ICML, 2020) [[paper](http://arxiv.org/abs/2007.02133)] [[code](https://github.com/chennnM/GCNII)] (novel; theoretical; graph; GNN; over-smoothing)
 - DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. (ICLR, 2020) [[paper](http://arxiv.org/abs/1907.10903)] [[code](https://github.com/DropEdge/DropEdge)] (graph; over-smoothing; dropout)
+- Graph Normalizing Flows. (NIPS, 2019) [[paper](http://arxiv.org/abs/1905.13177)] (novel; empirical; graph; flow)
 - Adversarial Attacks on Graph Neural Networks via Meta Learning. (ICLR, 2019) [[paper](https://arxiv.org/abs/1902.08412)] (novel; empirical; graph; adversarial; attacks; meta-learning)
 - Graph Convolutional Networks with EigenPooling. (KDD, 2019) [[paper](https://dl.acm.org/doi/10.1145/3292500.3330982)] [[code](https://github.com/alge24/eigenpooling)] (novel; wow; empirical; spectral; GCN; pooling)
 - Representation Learning for Attributed Multiplex Heterogeneous Network. (KDD, 2019) [[paper](https://dl.acm.org/doi/10.1145/3292500.3330964)] [[code](https://github.com/cenyk1230/GATNE)] (emmm; empirical; heterogeneous; graph; GNN)

@@ -148,6 +148,8 @@
 - Supervised Random Walks: Predicting and Recommending Links in Social Networks. (WSDM, 2011) [[paper](https://arxiv.org/abs/1011.4071)] [[code](https://github.com/Pepton21/Supervised-random-walks-with-restarts)] (graph; PageRank; random walk)
 - ItemRank: A Random-Walk Based Scoring Algorithm for Recommender Engines. (IJCAI, 2007) [[paper](https://www.ijcai.org/Proceedings/07/Papers/444.pdf)]
 - Fast Random Walk with Restart and Its Applications. (ICDM, 2006) [[paper](http://ieeexplore.ieee.org/document/4053087/)]
+- Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions. (ICML, 2003) [[paper](https://pages.cs.wisc.edu/~jerryzhu/pub/zgl.pdf)] (novel; seminal; theoretical; graph; diffusion; semi-supervised)
+- Learning with Local and Global Consistency. (NIPS, 2003) [[paper](https://proceedings.neurips.cc/paper_files/paper/2003/hash/87682805257e619d49b8e0dfdc14affa-Abstract.html)] (novel; theoretical; graph; diffusion; denoising)
 
 ## Seminal
 
