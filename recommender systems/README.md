@@ -172,14 +172,19 @@
 
 - Conditional Denoising Diffusion for Sequential Recommendation. (arXiv, 2023) [[paper](http://arxiv.org/abs/2304.11433)] (emmm; empirical; diffusion; sequential; contrastive learning)
 - Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2301.12197)] [[code](https://github.com/zfan20/MStein)] (emmm; empirical; contrastive learning; sequential; Wasserstein)
-- Sequential Recommendation via Stochastic Self-Attention. (WWW, 2022) [[paper](http://arxiv.org/abs/2201.06035)] [[code](https://github.com/zfan20/STOSA)] (novel; empirical; sequential; attention; Wasserstein )
+- Sequential Recommendation via Stochastic Self-Attention. (WWW, 2022) [[paper](http://arxiv.org/abs/2201.06035)] [[code](https://github.com/zfan20/STOSA)] (novel; empirical; sequential; attention; Wasserstein)
+- Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation. (AAAI, 2021) [[paper](http://arxiv.org/abs/2012.06852)] [[code](https://github.com/xiaxin1998/DHCN)] (emmm; empirical; contrastive learning; graph; hypergraph; session)
+- Self-Supervised Graph Co-Training for Session-based Recommendation. (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.10560)] [[code](https://github.com/xiaxin1998/COTREC)] (novel; empirical; graph; co-training; contrastive learning)
 - Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation. (WWW, 2021) [[paper](http://arxiv.org/abs/2103.10693)] (emmm; empirical; sequential; VAE)
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation. (KDD, 2020) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403170)] [[code](https://github.com/twchen/lessr)] (novel; empirical; session; multigrpah; graph)
-- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer. (ICKM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3357384.3357895)] (empirical; emmm; BERT4Rec; sequential; BERT)
 - TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2005.02844)] (emmm; empirical; session)
+- Global Context Enhanced Graph Neural Networks for Session-based Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2106.05081)] [[code](https://github.com/CCIIPLab/GCE-GNN)] (emmm; empirical; attention; graph; session)
 - Memory Augmented Graph Neural Networks for Sequential Recommendation. (AAAI, 2020) [[paper](http://arxiv.org/abs/1912.11730)] (emmm; empirical; session)
 - Session-based Recommendation with Graph Neural Networks. (AAAI, 2019) [[paper](http://arxiv.org/abs/1811.00855)] (empirical; emmm; SR-GNN; sequential; session; GRU)
 - Sequential Variational Autoencoders for Collaborative Filtering. (WSDM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3289600.3291007)] (emmm; empirical; VAE)
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer. (CIKM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3357384.3357895)] (empirical; emmm; BERT4Rec; sequential; BERT)
+- STAMP: Short-Term Attention Memory Priority Model for Session-based Recommendation. (KDD, 2018) [[paper](https://dl.acm.org/doi/10.1145/3219819.3219950)] [[code](https://github.com/uestcnlp/STAMP)] (novel; seminal; empirical; attention; session)
+- Neural Attentive Session-based Recommendation. (CIKM, 2017) [[paper](http://arxiv.org/abs/1711.04725)] [[code](https://github.com/lijingsdu/sessionRec_NARM)] (novel; empirical; session; attention; GRU)
 - Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding. (WSDM, 2018) [[paper](http://arxiv.org/abs/1809.07426)] [[code](https://github.com/graytowne/caser_pytorch)] (seminal; novel; empirical; convolutional; sequential)
 - Self-Attentive Sequential Recommendation. (ICDM, 2018) [[paper](http://arxiv.org/abs/1808.09781)] (empirical; emmm; SASRec; sequential; transformer) [[code](https://github.com/kang205/SASRec)] [[code-pytorch](https://github.com/pmixer/SASRec.pytorch)]
 - Neural Attentive Session-based Recommendation. (CIKM, 2017) [[paper](http://arxiv.org/abs/1711.04725)] (empirical; emmm; NARM; sequential; session; GRU)
@@ -201,8 +206,10 @@
 
 ## Other
 
+- Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System. (2023) [[paper](http://arxiv.org/abs/2303.14524)] (emmm; empirical; LLM)
 - Bootstrap Latent Representations for Multi-modal Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2207.05969)] (emmm; empirical; multi-modal; stop gradient)
 - Disentangled Causal Embedding With Contrastive Learning For Recommender System. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.03248)] (emmm; empirical; casual embedding; contrastive learning)
+- Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5). (RecSys, 2022) [[paper](http://arxiv.org/abs/2203.13366)] (novel; seminal; empirical; LLM; prompt)
 - On the Generalizability and Predictability of Recommender Systems. (NIPS, 2022)[[paper](http://arxiv.org/abs/2206.11886)] (emmm; empirical; meta-learning; algorithm search)
 - Learning from a Learning User for Optimal Recommendations. (ICML, 2022) [[paper](http://arxiv.org/abs/2202.01879)] (novel; theoretical; bandit; user learning)
 - Recognising the importance of preference change: A call for a coordinated multidisciplinary research effort in the age of AI. (AAAI, 2022) [[paper](http://arxiv.org/abs/2203.10525)] (emmm; empirical; preference)
