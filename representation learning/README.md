@@ -10,11 +10,13 @@
 
 ## Graph
 
+- DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion. (ICLR, 2023) [[paper](http://arxiv.org/abs/2301.09474)] [[code](https://github.com/qitianwu/DIFFormer)] (novel; theoretical; diffusion; graph; GNN; spectral)
 - Graph Neural Networks without Propagation. (WWW, 2023) [[paper](https://dl.acm.org/doi/10.1145/3543507.3583419)] (emmm; empirical; graph; GNN; low-rank)
 - Measuring the predictive heterogeneity. (ICLR, 2023) [[paper](https://arxiv.org/pdf/2304.00305.pdf)] (emmm; theoretical; MI; entropy; predictive heterogeneity)
 - Graph Neural Networks for Link Prediction with Subgraph Sketching. (ICLR, 2023) [[paper](http://arxiv.org/abs/2209.15486)] (novel; theoretical; graph; subgraph; link prediction; WL)
 - Rethinking the Expressive Power of GNNs via Graph Biconnectivity. (ICLR, 2023) [[paper](http://arxiv.org/abs/2301.09505)] [[code](https://github.com/lsj2408/Graphormer-GD)] (novel; seminal; theoretical; graph; WL)
 - Neural Link Prediction with Walk Pooling. (2022) [[paper](https://arxiv.org/abs/2110.04375#:~:text=We%20propose%20a%20link%20prediction%20algorithm%20based%20on,link%20by%20random%20walk%20probabilities%20of%20adjacent%20paths.)] [[code](https://github.com/DaDaCheng/WalkPooling)] (novel; empirical; graph; link prediction; subgraph)
+- Graph Neural Networks Inspired by Classical Iterative Algorithms. (ICML, 2022) [[paper](http://arxiv.org/abs/2103.06064)] (novel; seminal; theoretical; graph; GNN; energy; spectral; diffusion; proximal)
 - GREAD: Graph Neural Reaction-Diffusion Equations. (2022) [[paper](https://arxiv-export1.library.cornell.edu/abs/2211.14208)] (novel; empirical; GNN; graph; over-smoothing; diffusion; ODE)
 - How Powerful is Implicit Denoising in Graph Neural Networks. (2022) [[paper](http://arxiv.org/abs/2209.14514)] (novel; wow; theoretical; graph; GNN; denoising)
 - SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.12689)] (novel; theoretical; graph; GNN; smoothing)
@@ -110,3 +112,8 @@
 - Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification. (ACL, 2022) [[paper](https://aclanthology.org/2022.acl-long.158)] [[code](https://github.com/thunlp/KnowledgeablePromptTuning)] (empirical; emmm; prompt; verbalizer)
 - Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. (ACL, 2021) [[paper](http://arxiv.org/abs/2107.13586)] (prompt; PLM; survey)
 - Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference. (2021) [[paper](https://aclanthology.org/2021.eacl-main.20)] [[code](https://github.com/timoschick/pet)] (empirical; novel; prompt; seminal)
+
+## LLM
+
+- LLaMA: Open and Efficient Foundation Language Models. (2023) [[paper](http://arxiv.org/abs/2302.13971)] (novel; seminal; empirical; LLM)
+- LoRA: Low-Rank Adaptation of Large Language Models. (ICLR, 2021) [[paper](http://arxiv.org/abs/2106.09685)] (novel; seminal; empirical; LLM; fine-tuning)

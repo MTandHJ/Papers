@@ -2,7 +2,11 @@
 
 
 
+## LLM
 
+- How to Index Item IDs for Recommendation Foundation Models. (2023) [[paper](http://arxiv.org/abs/2305.06569)] (novel; empirical; LLM; index; align)
+- TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation. (2023) [[paper](http://arxiv.org/abs/2305.00447)] (emmm; empirical; LLM)
+- Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5). (RecSys, 2022) [[paper](http://arxiv.org/abs/2203.13366)] (novel; seminal; empirical; novel; prompt)
 
 ## Fairness
 
@@ -172,7 +176,9 @@
 
 - Conditional Denoising Diffusion for Sequential Recommendation. (arXiv, 2023) [[paper](http://arxiv.org/abs/2304.11433)] (emmm; empirical; diffusion; sequential; contrastive learning)
 - Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2301.12197)] [[code](https://github.com/zfan20/MStein)] (emmm; empirical; contrastive learning; sequential; Wasserstein)
+- Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation. (WSDM, 2022) [[paper](http://arxiv.org/abs/2110.05730)] [[code](https://github.com/RuihongQiu/DuoRec/tree/master)] (emmm; empirical; sequential; contrastive learning)
 - Sequential Recommendation via Stochastic Self-Attention. (WWW, 2022) [[paper](http://arxiv.org/abs/2201.06035)] [[code](https://github.com/zfan20/STOSA)] (novel; empirical; sequential; attention; Wasserstein)
+- Exploiting Positional Information for Session-based Recommendation. (ACM, 2021) [[paper](http://arxiv.org/abs/2107.00846)] (novel; theoretical; session; positonal encoding; forward; backward)
 - Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation. (AAAI, 2021) [[paper](http://arxiv.org/abs/2012.06852)] [[code](https://github.com/xiaxin1998/DHCN)] (emmm; empirical; contrastive learning; graph; hypergraph; session)
 - Self-Supervised Graph Co-Training for Session-based Recommendation. (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.10560)] [[code](https://github.com/xiaxin1998/COTREC)] (novel; empirical; graph; co-training; contrastive learning)
 - Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation. (WWW, 2021) [[paper](http://arxiv.org/abs/2103.10693)] (emmm; empirical; sequential; VAE)
