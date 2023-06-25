@@ -174,6 +174,7 @@
 
 ## Sequential
 
+- Graph Masked Autoencoder for Sequential Recommendation. (SIGIR, 2023) [[paper](http://arxiv.org/abs/2305.04619)] [[code](https://github.com/HKUDS/GMRec)] (novel; empirical; graph; mask; sequential)
 - Conditional Denoising Diffusion for Sequential Recommendation. (arXiv, 2023) [[paper](http://arxiv.org/abs/2304.11433)] (emmm; empirical; diffusion; sequential; contrastive learning)
 - Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2301.12197)] [[code](https://github.com/zfan20/MStein)] (emmm; empirical; contrastive learning; sequential; Wasserstein)
 - Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation. (WSDM, 2022) [[paper](http://arxiv.org/abs/2110.05730)] [[code](https://github.com/RuihongQiu/DuoRec/tree/master)] (emmm; empirical; sequential; contrastive learning)
@@ -185,6 +186,7 @@
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation. (KDD, 2020) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403170)] [[code](https://github.com/twchen/lessr)] (novel; empirical; session; multigrpah; graph)
 - TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2005.02844)] (emmm; empirical; session)
 - Global Context Enhanced Graph Neural Networks for Session-based Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2106.05081)] [[code](https://github.com/CCIIPLab/GCE-GNN)] (emmm; empirical; attention; graph; session)
+- Time Interval Aware Self-Attention for Sequential Recommendation. (WSDM, 2020) [[paper](https://dl.acm.org/doi/10.1145/3336191.3371786)] (emmm; empirical; positional encoding; sequential)
 - Memory Augmented Graph Neural Networks for Sequential Recommendation. (AAAI, 2020) [[paper](http://arxiv.org/abs/1912.11730)] (emmm; empirical; session)
 - Session-based Recommendation with Graph Neural Networks. (AAAI, 2019) [[paper](http://arxiv.org/abs/1811.00855)] (empirical; emmm; SR-GNN; sequential; session; GRU)
 - Sequential Variational Autoencoders for Collaborative Filtering. (WSDM, 2019) [[paper](https://dl.acm.org/doi/10.1145/3289600.3291007)] (emmm; empirical; VAE)
@@ -212,6 +214,7 @@
 
 ## Other
 
+- EulerNet: Adaptive Feature Interaction Learning via Euler's Formula for CTR Prediction. (SIGIR, 2023) [[paper](http://arxiv.org/abs/2304.10711)] [[code](https://github.com/RUCAIBox/EulerNet)] (novel; theoretical; Euler; CTR)
 - Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System. (2023) [[paper](http://arxiv.org/abs/2303.14524)] (emmm; empirical; LLM)
 - Bootstrap Latent Representations for Multi-modal Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2207.05969)] (emmm; empirical; multi-modal; stop gradient)
 - Disentangled Causal Embedding With Contrastive Learning For Recommender System. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.03248)] (emmm; empirical; casual embedding; contrastive learning)

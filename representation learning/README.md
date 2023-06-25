@@ -5,6 +5,8 @@
 
 ## Embedding
 
+- Self-attention with Functional Time Representation Learning. (NIPS, 2019) [[paper](http://arxiv.org/abs/1911.12864)] (novel; theoretical; positional encoding; fourier; RKHS; time-aware)
+- Self-Attention with Relative Position Representations. (2018) [[paper](http://arxiv.org/abs/1803.02155)] (novel; empirical; seminal; positional encoding; relative; transformer)
 - **Distributed Representations of Words and Phrases and their Compositionality.** (NIPS, 2013) [[paper](http://arxiv.org/abs/1310.4546)]
 - **Efficient Estimation of Word Representations in Vector Space.** (ICLR, 2013) [[paper](http://arxiv.org/abs/1301.3781)]
 
@@ -39,6 +41,7 @@
 - Understanding Structural Vulnerability in Graph Convolutional Networks. (IJCAI, 2021) [[paper](http://arxiv.org/abs/2108.06280)] [[code](https://github.com/EdisonLeeeee/MedianGCN)] (novel; empirical; graph; GCN; aggregation; mean)
 - Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks. (IJCAI, 2021) [[paper](https://www.ijcai.org/proceedings/2021/371)] (novel; empirical; graph GNN; half-graph; self-supervised)
 - A Unified View on Graph Neural Networks as Graph Signal Denoising. (CIKM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482225)] [[code](https://github.com/alge24/ADA-UGNN)] (seminal; novel; theoretical; graph; GNN; denoising)
+- Inductive Representation Learning on Temporal Graphs. (ICLR, 2020) [[paper](http://arxiv.org/abs/2002.07962)] (emmm; empirical; fourier; graph; positional encoding; time-aware)
 - Structpool: structured graph pooling via conditional random fields. (ICLR, 2020) [[paper](https://openreview.net/pdf?id=BJxg_hVtwH)] [[code](https://github.com/Nate1874/StructPool)] (novel; empirical; graph; GNN; pooling)
 - Pairnorm: tackling oversmoothing in gnns. (ICLR, 2020) [[paper](https://openreview.net/forum?id=rkecl1rtwB)] [[code](https://github.com/LingxiaoShawn/PairNorm)] (emmm; empirical; graph; GCN; normalization; over-smoothing)
 - A Theory of Usable Information Under Computational Constraints. (ICLR, 2020) [[paper](http://arxiv.org/abs/2002.10689)] (wow; seminal; entropy; MI)
