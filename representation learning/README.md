@@ -5,7 +5,9 @@
 
 ## Embedding
 
+- Query2box: Reasoning over Knowledge Graphs in Vector Space using Box Embeddings. (ICLR, 2020) [[paper](http://arxiv.org/abs/2002.05969)] (novel; empirical; embedding; KG; logical)
 - Self-attention with Functional Time Representation Learning. (NIPS, 2019) [[paper](http://arxiv.org/abs/1911.12864)] (novel; theoretical; positional encoding; fourier; RKHS; time-aware)
+- Embedding Logical Queries on Knowledge Graphs. (NIPS, 2018) [[paper](http://arxiv.org/abs/1806.01445)] (novel; seminal; theoretical; KG; logical)
 - Self-Attention with Relative Position Representations. (2018) [[paper](http://arxiv.org/abs/1803.02155)] (novel; empirical; seminal; positional encoding; relative; transformer)
 - **Distributed Representations of Words and Phrases and their Compositionality.** (NIPS, 2013) [[paper](http://arxiv.org/abs/1310.4546)]
 - **Efficient Estimation of Word Representations in Vector Space.** (ICLR, 2013) [[paper](http://arxiv.org/abs/1301.3781)]

@@ -108,6 +108,7 @@
 
 ## Graph
 
+- Graph Collaborative Signals Denoising and Augmentation for Recommendation. (SIGIR, 2023) [[paper](http://arxiv.org/abs/2304.03344)] (emmm; empirical; graph)
 - Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2207.05959)] [[code](https://github.com/Joinn99/FPSR)] (emmm; empirical; SVD; s)
 - LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation. (ICLR, 2023) [[paper](http://arxiv.org/abs/2302.08191)] [[code](https://github.com/HKUDS/LightGCL.git)] (novel; empirical; graph; contrastive learning; SVD; spectral)
 - Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution. (ICLR, 2023) [[paper](http://arxiv.org/abs/2302.03933)] [[code](https://github.com/cchao0116/GSIMC-ICLR2023)] (emmm; theoretical; graph; spectral; frequency)
@@ -174,15 +175,20 @@
 
 ## Sequential
 
+- Text Is All You Need: Learning Language Representations for Sequential Recommendation. (KDD, 2023) [[paper](http://arxiv.org/abs/2305.13731)] (novel; empirical; No-ID; sequential)
+- Attention Mixtures for Time-Aware Sequential Recommendation. (SIGIR, 2023) [[paper](http://arxiv.org/abs/2304.08158)] (emmm; empirical; sequential; time-aware)
 - Graph Masked Autoencoder for Sequential Recommendation. (SIGIR, 2023) [[paper](http://arxiv.org/abs/2305.04619)] [[code](https://github.com/HKUDS/GMRec)] (novel; empirical; graph; mask; sequential)
 - Conditional Denoising Diffusion for Sequential Recommendation. (arXiv, 2023) [[paper](http://arxiv.org/abs/2304.11433)] (emmm; empirical; diffusion; sequential; contrastive learning)
 - Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2301.12197)] [[code](https://github.com/zfan20/MStein)] (emmm; empirical; contrastive learning; sequential; Wasserstein)
 - Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation. (WSDM, 2022) [[paper](http://arxiv.org/abs/2110.05730)] [[code](https://github.com/RuihongQiu/DuoRec/tree/master)] (emmm; empirical; sequential; contrastive learning)
+- Context and Attribute-Aware Sequential Recommendation via Cross-Attention. (RecSys, 2022) [[paper](https://dl.acm.org/doi/10.1145/3523227.3546777)] (emmm; empirical; context-aware; time-aware; sequential)
+- STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation. (WWW, 2022) [[paper](https://dl.acm.org/doi/10.1145/3485447.3512041)] (emmm; empirical; sequential; graph)
 - Sequential Recommendation via Stochastic Self-Attention. (WWW, 2022) [[paper](http://arxiv.org/abs/2201.06035)] [[code](https://github.com/zfan20/STOSA)] (novel; empirical; sequential; attention; Wasserstein)
 - Exploiting Positional Information for Session-based Recommendation. (ACM, 2021) [[paper](http://arxiv.org/abs/2107.00846)] (novel; theoretical; session; positonal encoding; forward; backward)
 - Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation. (AAAI, 2021) [[paper](http://arxiv.org/abs/2012.06852)] [[code](https://github.com/xiaxin1998/DHCN)] (emmm; empirical; contrastive learning; graph; hypergraph; session)
 - Self-Supervised Graph Co-Training for Session-based Recommendation. (CIKM, 2021) [[paper](http://arxiv.org/abs/2108.10560)] [[code](https://github.com/xiaxin1998/COTREC)] (novel; empirical; graph; co-training; contrastive learning)
 - Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation. (WWW, 2021) [[paper](http://arxiv.org/abs/2103.10693)] (emmm; empirical; sequential; VAE)
+- MEANTIME: Mixture of Attention Mechanisms with Multi-temporal Embeddings for Sequential Recommendation. (RecSys, 2020) [[paper](http://arxiv.org/abs/2008.08273)] (emmm; empirical; sequential; time-aware)
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation. (KDD, 2020) [[paper](https://dl.acm.org/doi/10.1145/3394486.3403170)] [[code](https://github.com/twchen/lessr)] (novel; empirical; session; multigrpah; graph)
 - TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2005.02844)] (emmm; empirical; session)
 - Global Context Enhanced Graph Neural Networks for Session-based Recommendation. (SIGIR, 2020) [[paper](http://arxiv.org/abs/2106.05081)] [[code](https://github.com/CCIIPLab/GCE-GNN)] (emmm; empirical; attention; graph; session)
