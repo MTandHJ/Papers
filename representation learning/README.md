@@ -120,5 +120,15 @@
 
 ## LLM
 
+- Rethinking with Retrieval: Faithful Large Language Model Inference. (2023) [[paper](http://arxiv.org/abs/2301.00303)] (novel; empirical; CoT; LLM; NLP)
+- Augmented Language Models: a Survey. (2023) [[paper](http://arxiv.org/abs/2302.07842)] (novel; survey; augmentation; retrieval)
+- REALM: Retrieval-Augmented Language Model Pre-Training. (ICML, 2023) [[paper](http://arxiv.org/abs/2002.08909)] (novel; empirical; NLP; retrieval; seminal)
+- Generative Pretraining in Multimodality. (2023) [[paper](http://arxiv.org/abs/2307.05222)] (emmm; empirical; LLM; Multimodality)
 - LLaMA: Open and Efficient Foundation Language Models. (2023) [[paper](http://arxiv.org/abs/2302.13971)] (novel; seminal; empirical; LLM)
+- Decomposed Prompting: A Modular Approach for Solving Complex Tasks. (ICLR, 2023) [[paper](http://arxiv.org/abs/2210.02406)] (emmm; empirical; LLM; NLP)
+- Large Language Models are Zero-Shot Reasoners. (NIPS, 2022) [[paper](http://arxiv.org/abs/2205.11916)] (emmm; empirical; CoT; LLM; NLP; zero-shot)
+- Measuring and Narrowing the Compositionality Gap in Language Models. (2022) [[paper](http://arxiv.org/abs/2210.03350)] (novel; empirical; CoT; LLM; NLP; retrieval)
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. (NIPS, 2022) [[paper](http://arxiv.org/abs/2201.11903)] (novel; empirical; LLM; NLP; CoT)
+- Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions. (2022) [[paper](http://arxiv.org/abs/2212.10509)] (novel; empirical; CoT; LLM; NLP; retrieval)
 - LoRA: Low-Rank Adaptation of Large Language Models. (ICLR, 2021) [[paper](http://arxiv.org/abs/2106.09685)] (novel; seminal; empirical; LLM; fine-tuning)
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. (NIPS, 2020) [[paper](http://arxiv.org/abs/2005.11401)] (novel; empirical; NLP; RAG; retrieval)
