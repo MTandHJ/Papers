@@ -213,6 +213,10 @@
 - Using sequential and non-sequential patterns in predictive Web usage mining tasks. (2003) (empirical; emmm; sequential)
 
 
+## Temporal (Time-aware)
+
+- Time-aware Path Reasoning on Knowledge Graph for Recommendation. (TOIS, 2022) [[paper](http://arxiv.org/abs/2108.02634)] [[code](https://github.com/Go0day/TPRec)] (emmm; empirical; temporal; time-aware; graph; KG)
+
 ## Survey
 
 - A Survey on Trustworthy Recommender Systems. [[paper](http://arxiv.org/abs/2207.12515)]
