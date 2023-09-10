@@ -108,6 +108,7 @@
 
 ## Graph
 
+- How Expressive are Graph Neural Networks in Recommendation? (CIKM, 2023) [[paper](http://arxiv.org/abs/2308.11127)] [[code](https://github.com/HKUDS/GTE)] (novel; theoretical; GNN; graph; WL-Test)
 - Graph Collaborative Signals Denoising and Augmentation for Recommendation. (SIGIR, 2023) [[paper](http://arxiv.org/abs/2304.03344)] (emmm; empirical; graph)
 - Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation. (WWW, 2023) [[paper](http://arxiv.org/abs/2207.05959)] [[code](https://github.com/Joinn99/FPSR)] (emmm; empirical; SVD; s)
 - LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation. (ICLR, 2023) [[paper](http://arxiv.org/abs/2302.08191)] [[code](https://github.com/HKUDS/LightGCL.git)] (novel; empirical; graph; contrastive learning; SVD; spectral)
@@ -216,6 +217,9 @@
 ## Temporal (Time-aware)
 
 - Time-aware Path Reasoning on Knowledge Graph for Recommendation. (TOIS, 2022) [[paper](http://arxiv.org/abs/2108.02634)] [[code](https://github.com/Go0day/TPRec)] (emmm; empirical; temporal; time-aware; graph; KG)
+- Time Matters: Sequential Recommendation with Complex Temporal Information. (SIGIR, 2020) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401154)] (emmm; empirical; sequential; temporal; time-aware)
+- Sequential Recommender via Time-aware Attentive Memory Network. (CIKM, 2020) [[paper](http://arxiv.org/abs/2005.08598)] [[code](https://github.com/cocoandpudding/MTAMRecommender)] (emmm; empirical; MTAM; temporal; time-aware)
+- D\'ej\`a vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation. (WWW, 2020) [[paper](http://arxiv.org/abs/2002.00741)] (emmm; empirical; sequential; temporal; time-aware)
 
 ## Survey
 
