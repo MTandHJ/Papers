@@ -217,6 +217,7 @@
 ## Temporal (Time-aware)
 
 - Time-aware Path Reasoning on Knowledge Graph for Recommendation. (TOIS, 2022) [[paper](http://arxiv.org/abs/2108.02634)] [[code](https://github.com/Go0day/TPRec)] (emmm; empirical; temporal; time-aware; graph; KG)
+- Learning Heterogeneous Temporal Patterns of User Preference for Timely Recommendation. (WWW, 2021) [[paper](http://arxiv.org/abs/2104.14200)] [[code](https://www.cnblogs.com/MTandHJ/p/17708685.html)] (novel; empirical; sequential; temporal; time-aware)
 - Time Matters: Sequential Recommendation with Complex Temporal Information. (SIGIR, 2020) [[paper](https://dl.acm.org/doi/10.1145/3397271.3401154)] (emmm; empirical; sequential; temporal; time-aware)
 - Sequential Recommender via Time-aware Attentive Memory Network. (CIKM, 2020) [[paper](http://arxiv.org/abs/2005.08598)] [[code](https://github.com/cocoandpudding/MTAMRecommender)] (emmm; empirical; MTAM; temporal; time-aware)
 - D\'ej\`a vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation. (WWW, 2020) [[paper](http://arxiv.org/abs/2002.00741)] (emmm; empirical; sequential; temporal; time-aware)
