@@ -93,7 +93,9 @@
 - Learning with Partially Absorbing Random Walks. (NIPS, 2012) [[paper](https://proceedings.neurips.cc/paper/2012/hash/512c5cad6c37edb98ae91c8a76c3a291-Abstract.html)] (提出一种图聚类方法, 可以和很多现有方法产生联系, 但是这么定义的来源是什么?)
 - Graph construction and b-matching for semi-supervised learning. (ICML, 2009) [[paper](https://dl.acm.org/doi/10.1145/1553374.1553432)] (不同图的构造方法)
 - Graph transduction via alternating minimization. (ICML, 2008) [[paper](http://portal.acm.org/citation.cfm?doid=1390156.1390300)] (交替迭代半监督学习算法)
+- Nonparametric Transforms of Graph Kernels for Semi-Supervised Learning. (NIPS)
 - Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions. (ICML, 2003) [[paper](https://pages.cs.wisc.edu/~jerryzhu/pub/zgl.pdf)] (图正则算法)
+- Diffusion Kernels on Graphs and Other Discrete Input Spaces. (ICML)
 
 ## VAE
 
