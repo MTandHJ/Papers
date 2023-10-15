@@ -14,6 +14,7 @@
 
 ## Graph
 
+- Graph Laplacian for Semi-Supervised Learning. (2023) [[paper](http://arxiv.org/abs/2301.04956)] (emmm; empirical; graph; Laplacian; semi-supervised; spectral)
 - DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion. (ICLR, 2023) [[paper](http://arxiv.org/abs/2301.09474)] [[code](https://github.com/qitianwu/DIFFormer)] (novel; theoretical; diffusion; graph; GNN; spectral)
 - Graph Neural Networks without Propagation. (WWW, 2023) [[paper](https://dl.acm.org/doi/10.1145/3543507.3583419)] (emmm; empirical; graph; GNN; low-rank)
 - Measuring the predictive heterogeneity. (ICLR, 2023) [[paper](https://arxiv.org/pdf/2304.00305.pdf)] (emmm; theoretical; MI; entropy; predictive heterogeneity)
@@ -79,6 +80,7 @@
 - Graph Attention Networks. (ICLR, 2018) [[paper](http://arxiv.org/abs/1710.10903)] [[code](https://github.com/PetarV-/GAT)] (novel; seminal; empirical; graph; attention)
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning. (AAAI, 2018) [[paper](http://arxiv.org/abs/1801.07606)] (讲了之前 GCN 的弊端, normalzied Laplacian 矩阵 特征值:[-1, 1])
 - Dynamic Network Embedding by Modeling Triadic Closure Process. (AAAI, 2018) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11257)] [[code](https://github.com/luckiezhou/DynamicTriad)] (emmm; graph; dynamic; empirical)
+- Weighted Nonlocal Laplacian on Interpolation from Sparse Data. (2017) [[paper](http://link.springer.com/10.1007/s10915-017-0421-z)]
 - Weisfeiler-Lehman Neural Machine for Link Prediction. (KDD, 2017) [[paper](https://dl.acm.org/doi/10.1145/3097983.3097996)] [[code](https://github.com/muhanzhang/LinkPrediction)] (wow; seminal; theoretical; subgraph; graph; link prediction; WL-test)
 - Neural Message Passing for Quantum Chemistry. (ICML, 2017) [[paper](https://arxiv.org/abs/1704.01212)] (seminal; MPNN; GNN; novel; empirical; graph)
 - Inductive Representation Learning on Large Graphs. (NIPS, 2017) [[paper](http://arxiv.org/abs/1706.02216)] [[code](https://www.cnblogs.com/MTandHJ/p/16642400.html)] (random walk; no embeddings)
@@ -96,6 +98,8 @@
 - Nonparametric Transforms of Graph Kernels for Semi-Supervised Learning. (NIPS)
 - Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions. (ICML, 2003) [[paper](https://pages.cs.wisc.edu/~jerryzhu/pub/zgl.pdf)] (图正则算法)
 - Diffusion Kernels on Graphs and Other Discrete Input Spaces. (ICML)
+- Combining Graph Laplacians for Semi–Supervised Learning.
+- Clustering with Multiple Graphs. (ICDM, 2009) [[paper](http://ieeexplore.ieee.org/document/5360349/)]
 
 ## VAE
 

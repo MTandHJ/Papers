@@ -222,6 +222,15 @@
 - Sequential Recommender via Time-aware Attentive Memory Network. (CIKM, 2020) [[paper](http://arxiv.org/abs/2005.08598)] [[code](https://github.com/cocoandpudding/MTAMRecommender)] (emmm; empirical; MTAM; temporal; time-aware)
 - D\'ej\`a vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation. (WWW, 2020) [[paper](http://arxiv.org/abs/2002.00741)] (emmm; empirical; sequential; temporal; time-aware)
 
+
+## Ranking (Attribute-aware)
+
+- Triangle Graph Interest Network for Click-through Rate Prediction. (WSDM, 2022) [[paper](http://arxiv.org/abs/2202.02698)] (novel; empirical; graph; motif; ranking)
+- Dual Graph enhanced Embedding Neural Network for CTR Prediction. (KDD, 2021) [[paper](http://arxiv.org/abs/2106.00314)] (emmm; empirical; graph; ranking)
+- Price-aware Recommendation with Graph Convolutional Networks. (2020) [[paper](http://arxiv.org/abs/2003.03975)] (emmm; empirical; graph; ranking)
+- Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction. (CIKM, 2019) [[paper](http://arxiv.org/abs/1910.05552)] (emmm; empirical; graph; ranking)
+
+
 ## Survey
 
 - A Survey on Trustworthy Recommender Systems. [[paper](http://arxiv.org/abs/2207.12515)]
