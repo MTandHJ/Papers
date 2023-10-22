@@ -22,6 +22,8 @@
 - Rethinking the Expressive Power of GNNs via Graph Biconnectivity. (ICLR, 2023) [[paper](http://arxiv.org/abs/2301.09505)] [[code](https://github.com/lsj2408/Graphormer-GD)] (novel; seminal; theoretical; graph; WL)
 - Neural Link Prediction with Walk Pooling. (2022) [[paper](https://arxiv.org/abs/2110.04375#:~:text=We%20propose%20a%20link%20prediction%20algorithm%20based%20on,link%20by%20random%20walk%20probabilities%20of%20adjacent%20paths.)] [[code](https://github.com/DaDaCheng/WalkPooling)] (novel; empirical; graph; link prediction; subgraph)
 - Graph Neural Networks Inspired by Classical Iterative Algorithms. (ICML, 2022) [[paper](http://arxiv.org/abs/2103.06064)] (novel; seminal; theoretical; graph; GNN; energy; spectral; diffusion; proximal)
+- Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. (2022) [[paper](http://arxiv.org/abs/2202.04822)] (survey)
+- Computing Graph Neural Networks: A Survey from Algorithms to Accelerators. (2022) [[paper](https://dl.acm.org/doi/10.1145/3477141)] (survey) 
 - GREAD: Graph Neural Reaction-Diffusion Equations. (2022) [[paper](https://arxiv-export1.library.cornell.edu/abs/2211.14208)] (novel; empirical; GNN; graph; over-smoothing; diffusion; ODE)
 - How Powerful is Implicit Denoising in Graph Neural Networks. (2022) [[paper](http://arxiv.org/abs/2209.14514)] (novel; wow; theoretical; graph; GNN; denoising)
 - SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation. (CIKM, 2022) [[paper](http://arxiv.org/abs/2208.12689)] (novel; theoretical; graph; GNN; smoothing)
@@ -49,6 +51,7 @@
 - Pairnorm: tackling oversmoothing in gnns. (ICLR, 2020) [[paper](https://openreview.net/forum?id=rkecl1rtwB)] [[code](https://github.com/LingxiaoShawn/PairNorm)] (emmm; empirical; graph; GCN; normalization; over-smoothing)
 - A Theory of Usable Information Under Computational Constraints. (ICLR, 2020) [[paper](http://arxiv.org/abs/2002.10689)] (wow; seminal; entropy; MI)
 - Graph Neural Networks Exponentially Lose Expressive Power for Node Classification. (ICLR, 2020) [[paper](http://arxiv.org/abs/1905.10947)] (novel; theory; graph; GNN; over-smoothing)
+- Robust Graph Representation Learning via Neural Sparsification. (ICML, 2020) (emmm; empirical; graph; sparsification)
 - Efficient Graph Generation with Graph Recurrent Attention Networks. (NIPS, 2020) [[paper](http://arxiv.org/abs/1910.00760)] (novel; empirical; graph; GRU; GNN)
 - Graph Information Bottleneck. (NIPS, 2020) [[paper](http://arxiv.org/abs/2010.12811)] [[code](https://github.com/snap-stanford/GIB)] (emmm; theoretical; graph; mutual information; graph; GNN)
 - Reliable Graph Neural Networks via Robust Aggregation. (NIPS, 2020) [[paper](http://arxiv.org/abs/2010.15651)] (novel; theoretical; graph; GNN; robustness; adversarial)
@@ -70,6 +73,7 @@
 - Simplifying Graph Convolutional Networks. (ICML, 2019) [[paper](Simplifying Graph Convolutional Networks)] [[code](https://github.com/Tiiiger/SGC)] (graph; novel; GNN; empirical; SGC)
 - How Powerful are Graph Neural Networks? (ICLR, 2019) [[paper](http://arxiv.org/abs/1810.00826)] [[code](https://github.com/weihua916/powerful-gnns)] (wow; seminal; theoretical; graph; WL-Test)
 - Predict then Propagate: Graph Neural Networks meet Personalized PageRank. (2019) [[paper](http://arxiv.org/abs/1810.05997)] (random walk; PageRank)
+- IntentGC: A Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation (KDD, 2019) [[paper](https://dl.acm.org/doi/10.1145/3292500.3330686)] (emmm; empirical; graph; large-scale)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. (ICLR, 2018) [[paper](http://arxiv.org/abs/1801.10247)] (novel; wow; seminal; theoretical; graph; importance sampling)
 - Embedding Temporal Network via Neighborhood Formation. (KDD, 2018) [[paper](https://dl.acm.org/doi/10.1145/3219819.3220054)] (empirical; novel; Hawkes Process; graph; dynamic)
 - Beyond Link Prediction: Predicting Hyperlinks in Adjacency Space. (AAAI, 2018) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11780)] [[code](https://github.com/muhanzhang/HyperLinkPrediction)] (novel; theoretical; hyperlink; EM)
@@ -95,11 +99,16 @@
 - Learning with Partially Absorbing Random Walks. (NIPS, 2012) [[paper](https://proceedings.neurips.cc/paper/2012/hash/512c5cad6c37edb98ae91c8a76c3a291-Abstract.html)] (提出一种图聚类方法, 可以和很多现有方法产生联系, 但是这么定义的来源是什么?)
 - Graph construction and b-matching for semi-supervised learning. (ICML, 2009) [[paper](https://dl.acm.org/doi/10.1145/1553374.1553432)] (不同图的构造方法)
 - Graph transduction via alternating minimization. (ICML, 2008) [[paper](http://portal.acm.org/citation.cfm?doid=1390156.1390300)] (交替迭代半监督学习算法)
+- Metropolis Algorithms for Representative Subgraph Sampling. (ICDM, 2008) [[paper](http://ieeexplore.ieee.org/document/4781123/)] (novel; theoretical; graph; MCMC; sparsification)
 - Nonparametric Transforms of Graph Kernels for Semi-Supervised Learning. (NIPS)
 - Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions. (ICML, 2003) [[paper](https://pages.cs.wisc.edu/~jerryzhu/pub/zgl.pdf)] (图正则算法)
 - Diffusion Kernels on Graphs and Other Discrete Input Spaces. (ICML)
 - Combining Graph Laplacians for Semi–Supervised Learning.
 - Clustering with Multiple Graphs. (ICDM, 2009) [[paper](http://ieeexplore.ieee.org/document/5360349/)]
+- Sampling from large graphs. (KDD, 2006) [[paper](https://dl.acm.org/doi/10.1145/1150402.1150479)] (novel; seminal; empirical; graph; sparsification)
+
+
+
 
 ## VAE
 
@@ -121,7 +130,7 @@
 
 ## Prompt
 
-
+- UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph. (ICLR, 2023) [[paper](http://arxiv.org/abs/2212.00959)] (emmm; empirical; knowledge graph; reasoning)
 - GPT Understands, Too. (2021) [[paper](https://arxiv.org/pdf/2103.10385.pdf)] (empirical; novel; learnable; prompt)
 - Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification. (ACL, 2022) [[paper](https://aclanthology.org/2022.acl-long.158)] [[code](https://github.com/thunlp/KnowledgeablePromptTuning)] (empirical; emmm; prompt; verbalizer)
 - Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. (ACL, 2021) [[paper](http://arxiv.org/abs/2107.13586)] (prompt; PLM; survey)

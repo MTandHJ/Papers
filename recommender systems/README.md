@@ -149,6 +149,7 @@
 - Graph Convolutional Neural Networks for Web-Scale Recommender Systems. (KDD, 2018) [[paper](https://arxiv.org/abs/1806.01973)] (PinSage; large-scale; novel; empirical; random-walk)
 - HOP-rec: high-order proximity for implicit recommendation. (RecSys, 2018) (Hop-Rec, 分级处理高阶信息)
 - Graph Convolutional Matrix Completion. (KDD, 2017) (GCMC) [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/riannevdberg/gc-mc)] [[PyTorch](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
+- Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time. (2017) [[paper](http://arxiv.org/abs/1711.07601)]
 - Random-Walk Computation of Similarities between Nodes of a Graph with Application to Collaborative Recommendation. (TKDE, 2017) [[paper](https://www.researchgate.net/publication/3297672_Random-Walk_Computation_of_Similarities_between_Nodes_of_a_Graph_with_Application_to_Collaborative_Recommendation)] (介绍 first-passage time / cost 以及相应的 CTD (Commute Time Distance) 的显式计算公式)
 - DeepWalk: Online Learning of Social Representations. (KDD, 2014) [[paper](http://arxiv.org/abs/1403.6652)]
 - Supervised Random Walks: Predicting and Recommending Links in Social Networks. (WSDM, 2011) [[paper](https://arxiv.org/abs/1011.4071)] [[code](https://github.com/Pepton21/Supervised-random-walks-with-restarts)] (graph; PageRank; random walk)
