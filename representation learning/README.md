@@ -14,12 +14,17 @@
 
 ## Graph
 
+- SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning. [[paper](http://arxiv.org/abs/2308.02565)]
+- GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking. [[paper](http://arxiv.org/abs/2305.15066)] (emmm; empirical; graph; LLM; prompt)
+- Towards Graph Foundation Models: A Survey and Beyond. [[paper](http://arxiv.org/abs/2310.11829)] (emmm, graph, LLM, survey)
 - Graph Laplacian for Semi-Supervised Learning. (2023) [[paper](http://arxiv.org/abs/2301.04956)] (emmm; empirical; graph; Laplacian; semi-supervised; spectral)
 - DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion. (ICLR, 2023) [[paper](http://arxiv.org/abs/2301.09474)] [[code](https://github.com/qitianwu/DIFFormer)] (novel; theoretical; diffusion; graph; GNN; spectral)
 - Graph Neural Networks without Propagation. (WWW, 2023) [[paper](https://dl.acm.org/doi/10.1145/3543507.3583419)] (emmm; empirical; graph; GNN; low-rank)
+- GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks. (WWW, 2023) [[paper](http://arxiv.org/abs/2302.08043)] (novel; empirical; graph; pretraining)
 - Measuring the predictive heterogeneity. (ICLR, 2023) [[paper](https://arxiv.org/pdf/2304.00305.pdf)] (emmm; theoretical; MI; entropy; predictive heterogeneity)
 - Graph Neural Networks for Link Prediction with Subgraph Sketching. (ICLR, 2023) [[paper](http://arxiv.org/abs/2209.15486)] (novel; theoretical; graph; subgraph; link prediction; WL)
 - Rethinking the Expressive Power of GNNs via Graph Biconnectivity. (ICLR, 2023) [[paper](http://arxiv.org/abs/2301.09505)] [[code](https://github.com/lsj2408/Graphormer-GD)] (novel; seminal; theoretical; graph; WL)
+- GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks. (KDD, 2022) [[paper](https://dl.acm.org/doi/10.1145/3534678.3539249)] (emmm; empirical; graph; prompt; pretraining)
 - Neural Link Prediction with Walk Pooling. (2022) [[paper](https://arxiv.org/abs/2110.04375#:~:text=We%20propose%20a%20link%20prediction%20algorithm%20based%20on,link%20by%20random%20walk%20probabilities%20of%20adjacent%20paths.)] [[code](https://github.com/DaDaCheng/WalkPooling)] (novel; empirical; graph; link prediction; subgraph)
 - Graph Neural Networks Inspired by Classical Iterative Algorithms. (ICML, 2022) [[paper](http://arxiv.org/abs/2103.06064)] (novel; seminal; theoretical; graph; GNN; energy; spectral; diffusion; proximal)
 - Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. (2022) [[paper](http://arxiv.org/abs/2202.04822)] (survey)
@@ -46,6 +51,7 @@
 - Understanding Structural Vulnerability in Graph Convolutional Networks. (IJCAI, 2021) [[paper](http://arxiv.org/abs/2108.06280)] [[code](https://github.com/EdisonLeeeee/MedianGCN)] (novel; empirical; graph; GCN; aggregation; mean)
 - Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks. (IJCAI, 2021) [[paper](https://www.ijcai.org/proceedings/2021/371)] (novel; empirical; graph GNN; half-graph; self-supervised)
 - A Unified View on Graph Neural Networks as Graph Signal Denoising. (CIKM, 2021) [[paper](https://dl.acm.org/doi/10.1145/3459637.3482225)] [[code](https://github.com/alge24/ADA-UGNN)] (seminal; novel; theoretical; graph; GNN; denoising)
+- GPT-GNN: Generative Pre-Training of Graph Neural Networks. (KDD, 2020) [[paper](http://arxiv.org/abs/2006.15437)] (novel; empirical; graph; pretraining)
 - Inductive Representation Learning on Temporal Graphs. (ICLR, 2020) [[paper](http://arxiv.org/abs/2002.07962)] (emmm; empirical; fourier; graph; positional encoding; time-aware)
 - Structpool: structured graph pooling via conditional random fields. (ICLR, 2020) [[paper](https://openreview.net/pdf?id=BJxg_hVtwH)] [[code](https://github.com/Nate1874/StructPool)] (novel; empirical; graph; GNN; pooling)
 - Pairnorm: tackling oversmoothing in gnns. (ICLR, 2020) [[paper](https://openreview.net/forum?id=rkecl1rtwB)] [[code](https://github.com/LingxiaoShawn/PairNorm)] (emmm; empirical; graph; GCN; normalization; over-smoothing)
@@ -144,6 +150,7 @@
 - Generative Pretraining in Multimodality. (2023) [[paper](http://arxiv.org/abs/2307.05222)] (emmm; empirical; LLM; Multimodality)
 - LLaMA: Open and Efficient Foundation Language Models. (2023) [[paper](http://arxiv.org/abs/2302.13971)] (novel; seminal; empirical; LLM)
 - Decomposed Prompting: A Modular Approach for Solving Complex Tasks. (ICLR, 2023) [[paper](http://arxiv.org/abs/2210.02406)] (emmm; empirical; LLM; NLP)
+- Autoregressive Search Engines: Generating Substrings as Document Identifiers. [[paper](https://www.cnblogs.com/MTandHJ/p/17796274.html)] (novel; seminal; empirical; retrieval; LM)
 - Large Language Models are Zero-Shot Reasoners. (NIPS, 2022) [[paper](http://arxiv.org/abs/2205.11916)] (emmm; empirical; CoT; LLM; NLP; zero-shot)
 - Measuring and Narrowing the Compositionality Gap in Language Models. (2022) [[paper](http://arxiv.org/abs/2210.03350)] (novel; empirical; CoT; LLM; NLP; retrieval)
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. (NIPS, 2022) [[paper](http://arxiv.org/abs/2201.11903)] (novel; empirical; LLM; NLP; CoT)
