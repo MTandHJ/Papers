@@ -4,6 +4,7 @@
 
 ## LLM
 
+- CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation. [[paper](http://arxiv.org/abs/2310.19488)] (emmm; empirical; LLM)
 - How to Index Item IDs for Recommendation Foundation Models. (2023) [[paper](http://arxiv.org/abs/2305.06569)] (novel; empirical; LLM; index; align)
 - TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation. (2023) [[paper](http://arxiv.org/abs/2305.00447)] (emmm; empirical; LLM)
 - Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5). (RecSys, 2022) [[paper](http://arxiv.org/abs/2203.13366)] (novel; seminal; empirical; novel; prompt)
