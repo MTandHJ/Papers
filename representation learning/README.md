@@ -14,6 +14,7 @@
 
 ## Graph
 
+- Encoder-Decoder Architecture for Supervised Dynamic Graph Learning: A Survey. (2023) [[paper](http://arxiv.org/abs/2203.10480)]
 - SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning. [[paper](http://arxiv.org/abs/2308.02565)]
 - GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking. [[paper](http://arxiv.org/abs/2305.15066)] (emmm; empirical; graph; LLM; prompt)
 - Towards Graph Foundation Models: A Survey and Beyond. [[paper](http://arxiv.org/abs/2310.11829)] (emmm, graph, LLM, survey)
@@ -116,6 +117,9 @@
 - Sampling from large graphs. (KDD, 2006) [[paper](https://dl.acm.org/doi/10.1145/1150402.1150479)] (novel; seminal; empirical; graph; sparsification)
 
 
+## KG
+
+- On the Evolution of Knowledge Graphs: A Survey and Perspective. (2023) [[paper](http://arxiv.org/abs/2310.04835)] (novel; survey; KG)
 
 
 ## VAE
